@@ -71,7 +71,7 @@ Hi [Name/team],
 
 I am reaching out because server CPU maintenance often needs a stable thermal paste supply in repeatable packaging.
 
-Maxtor manufactures thermal interface materials in Zhongshan, China. Our CTG thermal paste series covers 4.5 to 18.0 W/m.K, with syringe and bottle packaging options for both sample testing and maintenance use.
+Maxtor has 15 years of thermal interface material R&D and manufacturing experience. Our CTG thermal paste series covers 4.5 to 18.0 W/m.K, with syringe and bottle packaging options for both sample testing and maintenance use.
 
 If you currently use DowSil, Shin-Etsu, Henkel, or similar thermal grease for CPU-to-heatsink maintenance, we can prepare comparable Maxtor samples for your own test method.
 
@@ -79,6 +79,34 @@ Would you like me to send the CTG6/CTG8/CTG12 options and packaging details?
 
 Best regards,
 [Your Name]
+Maxtor Thermal Solutions
+zsmaxtor@126.com
+www.maxtor-si.com
+```
+
+## COMPUTEX Taipei Follow-Up: Taiwan Server / Industrial Application Customer
+
+Subject options:
+
+- `COMPUTEX 後續：伺服器維護用導熱材料`
+- `台北電腦展後續：CTG 導熱膏測試選項`
+- `很高興在 COMPUTEX 與您交流`
+
+Email:
+
+```text
+您好 [姓名/團隊]，
+
+很高興在台北 COMPUTEX 電腦展與您交流，也謝謝您花時間了解 Maxtor 的導熱材料。
+
+針對伺服器維護、資料中心運維或工業應用場景，導熱膏通常不只是一次性材料，而是需要穩定供應、批次一致性與可重複測試的耗材。Maxtor 擁有 15 年導熱介面材料研發與製造經驗，CTG 系列導熱膏覆蓋 4.5 到 18.0 W/m.K，可依照維護或測試需求提供針筒、瓶裝等包裝。
+
+如果貴司目前有 CPU-to-heatsink 維護、伺服器散熱材料替換，或現有導熱膏對比測試需求，我們可以先提供 CTG6 / CTG8 / CTG12 的資料與樣品選項給您評估。
+
+請問我是否可以寄一份產品資料與樣品建議給您參考？
+
+Best regards,
+Fred
 Maxtor Thermal Solutions
 zsmaxtor@126.com
 www.maxtor-si.com

@@ -16,6 +16,7 @@
 - Factory: Guangdong Zhongshan Dongfeng Town, 2 factory areas.
 - Certifications / documents mentioned in catalog notes: SGS, ISO9001:2016, REACH, ROHS, MSDS, sea/air/rail transport permission.
 - R&D note: 20+ person R&D team, 50%+ master's degree holders, RMB 1M+ laboratory investment.
+- User-provided outreach positioning: 15 years of thermal interface material R&D and manufacturing experience.
 - Outreach-safe positioning: professional TIM manufacturer with OEM/ODM and custom packaging capability.
 
 ## CTG Thermal Paste Series
@@ -74,11 +75,13 @@ Useful server framing:
 - Typical CPU power range in internal training: 200 W to 500 W per CPU; dual CPU systems can reach 400 W to 1000 W.
 - Data center maintenance can buy in larger packaging by liter/kg.
 - Liquid-cooled regular CPU servers still need TIM and require better paste stability under thermal cycling.
+- Server maintenance, data center operations, industrial PC, and other end industrial application customers are application users. For these customers, emphasize R&D/manufacturing experience, stability, testing, supply continuity, and suitable packaging; do not lead with OEM/ODM.
 
 Boundary:
 
 - Do not position Maxtor as a liquid metal or graphene supplier for AI GPU die/cold-plate interfaces.
 - If mentioning AI servers, keep it narrow: non-die components, regular CPU/server maintenance, or "not every server TIM requirement is liquid metal."
+- Use OEM/ODM mainly for computer brands, product brands, agents, distributors, and private-label/resale customers, not for server end-use maintenance customers.
 
 ## Competitor Comparison Boundary
 

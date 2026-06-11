@@ -29,8 +29,19 @@ www.maxtor-si.com
 | US, UK, CA, AU, NZ, English-speaking region | English |
 | Germany / DE | English unless a German template is explicitly requested |
 | Japan / JP | English unless a Japanese template is explicitly requested |
+| Taiwan / TW | Traditional Chinese unless the customer clearly prefers English |
 | China / Chinese-speaking region | Chinese |
 | Other or unknown | English |
+
+## Taiwan / Computex Follow-Up Rules
+
+- For COMPUTEX Taipei / 台北 COMPUTEX leads, write as a post-show follow-up: mention meeting or seeing them at the show before introducing products.
+- Use Traditional Chinese by default for Taiwan customers.
+- Do not emphasize "China" or geographic origin in the opening. Prefer "Maxtor Thermal Solutions", "Maxtor 研發與製造團隊", or "我們團隊".
+- Emphasize 15 years of thermal interface material R&D and manufacturing experience when trust-building is needed.
+- Keep tone professional, warm, and practical. Taiwanese B2B follow-up should feel like a continuation of a conversation, not a cold pitch.
+- If the lead is a server maintenance, data center, industrial PC, or terminal industrial application customer, do not lead with OEM/ODM. Lead with application fit, stability, test samples, packaging for maintenance, and supply continuity.
+- Use OEM/ODM mainly for computer brands, product brands, agents, distributors, and private-label or resale customers.
 
 ## Template Matching
 
@@ -59,6 +70,8 @@ Angle:
 - REACH/ROHS/MSDS/transport documentation available from catalog note.
 - CTA: ask for current SKU range, target price tier, or packaging preference.
 
+Use OEM/ODM wording for computer brands, product brands, agents, distributors, and customers who need private-label packaging or resale SKUs.
+
 ### PC DIY / Gaming / E-Commerce Reseller
 
 Angle:
@@ -75,6 +88,7 @@ Angle:
 
 - Regular server CPU maintenance uses thermal paste as recurring consumable.
 - Bottle/bulk packaging supports maintenance teams.
+- 15 years of TIM R&D and manufacturing experience supports trust-building.
 - Discuss target thermal conductivity, viscosity, pump-out resistance, shelf life, and test method.
 - CTA: ask what paste they currently use and whether they can test CTG6/CTG8/CTG12.
 
@@ -82,6 +96,7 @@ Avoid:
 
 - Claiming Maxtor solves AI GPU die liquid-metal requirements.
 - Treating 18 W/m.K paste as a replacement for liquid metal or graphene at 30+ W/m.K.
+- Leading with OEM/ODM unless the server lead is also a brand owner, distributor, or private-label buyer.
 
 ### 5G / EV / Industrial Electronics
 
@@ -127,6 +142,8 @@ Good subject lines:
 - `High-performance TIM supplier for CPU/GPU cooling`
 - `Thermal paste packaging options: syringe, bottle, blister`
 - `Sample option for server CPU thermal paste`
+- `COMPUTEX 後續：伺服器維護用導熱材料`
+- `台北電腦展後續：CTG 導熱膏測試選項`
 
 Avoid:
 
