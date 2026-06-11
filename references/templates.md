@@ -7,7 +7,7 @@ Use these as patterns, not rigid scripts. Personalize the opening line and choos
 Subject options:
 
 - `Thermal paste OEM options for [Company]`
-- `Maxtor CTG thermal paste samples`
+- `Maxtor CTG thermal paste product information`
 - `CPU/GPU thermal paste supplier from Zhongshan`
 
 Email:
@@ -21,7 +21,7 @@ Maxtor is a thermal interface material manufacturer in Zhongshan, China, focused
 
 We can support syringe, bottle, blister, box, PE, and OPP packaging for retail or bulk supply.
 
-Would it be useful if I send our catalog and sample options for your current product range?
+Would it be useful if I send our product catalog and CTG datasheets for your review?
 
 Best regards,
 [Your Name]
@@ -35,7 +35,7 @@ www.maxtor-si.com
 Subject options:
 
 - `CTG8 / CTG10 / CTG12 thermal paste for PC DIY`
-- `Thermal paste samples for gaming PC customers`
+- `Thermal paste product line for gaming PC customers`
 - `Retail thermal paste packaging options`
 
 Email:
@@ -47,7 +47,7 @@ I saw that [Company] serves PC builders and gaming hardware users. Maxtor may be
 
 Our main CTG thermal paste range includes CTG8 at 12.8 W/m.K for strong price-performance, CTG10 at 14.5 W/m.K for higher-performance demand, and CTG12 at 18.0 W/m.K for premium applications. They are positioned for CPU/GPU heat dissipation and can be packed in syringe, blister, color box, or other retail formats.
 
-Would you be open to reviewing a small CTG8/CTG10/CTG12 sample kit and packaging options?
+Would it be useful if I send the CTG8/CTG10/CTG12 product information and packaging overview for your review?
 
 Best regards,
 [Your Name]
@@ -62,7 +62,7 @@ Subject options:
 
 - `Thermal paste option for server CPU maintenance`
 - `Bulk TIM supply for data center maintenance`
-- `CTG samples for CPU heatsink maintenance`
+- `CTG product information for CPU heatsink maintenance`
 
 Email:
 
@@ -71,11 +71,11 @@ Hi [Name/team],
 
 I am reaching out because server CPU maintenance often needs a stable thermal paste supply in repeatable packaging.
 
-Maxtor has 15 years of thermal interface material R&D and manufacturing experience. Our main CTG thermal paste options are CTG8, CTG10, and CTG12, with syringe and bottle packaging options for both sample testing and maintenance use.
+Maxtor has 15 years of thermal interface material R&D and manufacturing experience. Our main CTG thermal paste options are CTG8, CTG10, and CTG12, with syringe and bottle packaging options for engineering review and maintenance use.
 
-If you currently use DowSil, Shin-Etsu, Henkel, or similar thermal grease for CPU-to-heatsink maintenance, we can prepare comparable Maxtor samples for your own test method.
+If you currently use DowSil, Shin-Etsu, Henkel, or similar thermal grease for CPU-to-heatsink maintenance, our CTG8/CTG10/CTG12 range may be worth reviewing first.
 
-Would you like me to send the CTG8/CTG10/CTG12 options and packaging details?
+Would you like me to send the CTG8/CTG10/CTG12 brochure and datasheets for your team to review?
 
 Best regards,
 [Your Name]
@@ -89,7 +89,7 @@ www.maxtor-si.com
 Subject options:
 
 - `COMPUTEX 後續：伺服器維護用導熱材料`
-- `台北電腦展後續：CTG 導熱膏測試選項`
+- `台北電腦展後續：CTG 導熱膏資料`
 - `很高興在 COMPUTEX 與您交流`
 
 Email:
@@ -99,11 +99,11 @@ Email:
 
 很高興在台北 COMPUTEX 電腦展與您交流，也謝謝您花時間了解 Maxtor 的導熱材料。
 
-針對伺服器維護、資料中心運維或工業應用場景，導熱膏通常不只是一次性材料，而是需要穩定供應、批次一致性與可重複測試的耗材。Maxtor 擁有 15 年導熱介面材料研發與製造經驗，目前主推 CTG8、CTG10、CTG12 三款導熱膏，可依照維護或測試需求提供針筒、瓶裝等包裝。
+針對伺服器維護、資料中心運維或工業應用場景，導熱膏通常需要穩定供應、批次一致性，以及方便內部評估。Maxtor 擁有 15 年導熱介面材料研發與製造經驗，目前主推 CTG8、CTG10、CTG12 三款導熱膏。
 
-如果貴司目前有 CPU-to-heatsink 維護、伺服器散熱材料替換，或現有導熱膏對比測試需求，我們可以先提供 CTG8 / CTG10 / CTG12 的資料與樣品選項給您評估。
+如果貴司目前有 CPU-to-heatsink 維護、伺服器散熱材料替換，或現有導熱膏對比需求，我可以先提供 CTG8 / CTG10 / CTG12 的產品資料與規格表給您了解。
 
-請問我是否可以寄一份產品資料與樣品建議給您參考？
+請問我是否可以先寄一份產品圖冊與規格資料給您參考？
 
 Best regards,
 Fred
@@ -118,7 +118,7 @@ Subject options:
 
 - `Thermal interface material for 5G and EV electronics`
 - `MTP thermal paste for harsh operating environments`
-- `TIM sample for BMS / charging pile / base station`
+- `TIM product information for BMS / charging pile / base station`
 
 Email:
 
@@ -129,7 +129,7 @@ I noticed your work in [5G / EV / industrial electronics], where thermal stabili
 
 Maxtor supplies thermal interface materials including MTP-8301A for 5G communication equipment and MTP-8301C for new energy applications such as SiC modules, BMS, and charging piles. We also offer thermal putty and pad options when the gap or assembly process is different from standard paste.
 
-If you share your target conductivity, working temperature, and application method, I can suggest the closest Maxtor sample for evaluation.
+Would it be useful if I send the MTP-8301A / MTP-8301C product information first? If the application matches, we can discuss working temperature, gap thickness, and test requirements afterward.
 
 Best regards,
 [Your Name]
@@ -138,12 +138,12 @@ zsmaxtor@126.com
 www.maxtor-si.com
 ```
 
-## Reviewer / Blogger Sample Outreach
+## Reviewer / Blogger Review Outreach
 
 Subject options:
 
-- `Maxtor CTG thermal paste sample for testing`
-- `CTG8 / CTG12 thermal paste review sample`
+- `Maxtor CTG thermal paste for testing`
+- `CTG8 / CTG10 / CTG12 thermal paste review idea`
 - `Thermal paste comparison idea for your channel`
 
 Email:
@@ -151,11 +151,11 @@ Email:
 ```text
 Hi [Name/team],
 
-I follow your content on [repaste / PC cooling / laptop repair / SFF builds], and thought Maxtor CTG thermal paste could be a relevant sample for your testing.
+I follow your content on [repaste / PC cooling / laptop repair / SFF builds], and thought Maxtor CTG thermal paste could be relevant for your testing.
 
-CTG8 is our 12.8 W/m.K performance-value paste, and CTG12 is our 18.0 W/m.K premium option. A simple comparison against your usual paste on a CPU, GPU, laptop, or SFF build would be very useful for our team and your audience.
+Our main CTG models are CTG8, CTG10, and CTG12. A simple comparison against your usual paste on a CPU, GPU, laptop, or SFF build would be useful for both our team and your audience.
 
-Would you be open to receiving a small sample kit for independent testing?
+Would you like me to send the product information first? If it fits your content plan, we can discuss review samples afterward.
 
 Best regards,
 [Your Name]
@@ -168,7 +168,7 @@ www.maxtor-si.com
 
 Subject options:
 
-- `Re: Maxtor thermal paste samples`
+- `Re: Maxtor thermal paste information`
 - `Quick follow-up on CTG8 / CTG12`
 
 Email:
@@ -180,7 +180,7 @@ Just following up on my previous email about Maxtor thermal paste.
 
 The most relevant options are likely [CTG8 12.8 W/m.K / CTG10 14.5 W/m.K / CTG12 18.0 W/m.K / MTP-8301A / MTP-8301C], depending on your target application. We can also support retail or bulk packaging if you are comparing suppliers.
 
-Should I send a short catalog and sample list for review?
+Should I send a short catalog and datasheets for review?
 
 Best regards,
 [Your Name]
@@ -192,7 +192,7 @@ Maxtor Thermal Solutions
 Subject options:
 
 - `Should I contact someone else?`
-- `Close the loop on Maxtor samples`
+- `Close the loop on Maxtor TIM information`
 
 Email:
 
@@ -201,7 +201,7 @@ Hi [Name/team],
 
 I do not want to keep filling your inbox.
 
-Is thermal paste or TIM sourcing something your team is reviewing this quarter? If yes, I can send the relevant Maxtor CTG/MTP sample options. If not, I can close the loop for now.
+Is thermal paste or TIM sourcing something your team is reviewing this quarter? If yes, I can send the relevant Maxtor CTG/MTP product information. If not, I can close the loop for now.
 
 Best regards,
 [Your Name]
@@ -227,7 +227,7 @@ Maxtor Thermal Solutions
 ## LinkedIn Short Message
 
 ```text
-Hi [Name], Maxtor manufactures thermal paste and TIM products in Zhongshan, China. Our main CTG thermal paste models are CTG8, CTG10, and CTG12, plus MTP-8301A/8301C for industrial applications. Would it be useful to send sample options?
+Hi [Name], Maxtor manufactures thermal paste and TIM products in Zhongshan, China. Our main CTG models are CTG8, CTG10, and CTG12, plus MTP-8301A/8301C for industrial applications. Would it be useful if I send a short product overview?
 ```
 
 ## Chinese First Touch
@@ -239,7 +239,7 @@ Hi [Name], Maxtor manufactures thermal paste and TIM products in Zhongshan, Chin
 
 Maxtor 是中山的导热界面材料厂家，主要做 CPU/GPU 导热硅脂、导热垫、导热泥及 OEM/ODM 包装。目前主推 CTG8、CTG10、CTG12 三款导热硅脂，以及 MTP-8301A、MTP-8301C 工业应用型号。
 
-如果贵司正在评估新的导热材料供应商，我可以发一份产品目录和样品方案给您参考。
+如果贵司正在评估新的导热材料供应商，我可以先发一份产品目录和规格资料给您参考。
 
 Best regards,
 [Your Name]

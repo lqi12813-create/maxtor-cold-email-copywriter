@@ -40,7 +40,7 @@ www.maxtor-si.com
 - Do not emphasize "China" or geographic origin in the opening. Prefer "Maxtor Thermal Solutions", "Maxtor 研發與製造團隊", or "我們團隊".
 - Emphasize 15 years of thermal interface material R&D and manufacturing experience when trust-building is needed.
 - Keep tone professional, warm, and practical. Taiwanese B2B follow-up should feel like a continuation of a conversation, not a cold pitch.
-- If the lead is a server maintenance, data center, industrial PC, or terminal industrial application customer, do not lead with OEM/ODM. Lead with application fit, stability, test samples, packaging for maintenance, and supply continuity.
+- If the lead is a server maintenance, data center, industrial PC, or terminal industrial application customer, do not lead with OEM/ODM. Lead with application fit, stability, product information, packaging for maintenance, and supply continuity.
 - Use OEM/ODM mainly for computer brands, product brands, agents, distributors, and private-label or resale customers.
 
 ## Template Matching
@@ -49,14 +49,33 @@ Before template matching, perform a market-fit check using `market-fit-research.
 
 | CRM type | Cooperation angle contains | Template family |
 |---|---|---|
-| Reviewer / tech | repaste, thermal paste, grease | material comparison / sample test |
-| Reviewer / tech | SFF, mini PC, cooling | SFF / mini PC targeted outreach |
+| Reviewer / tech | repaste, thermal paste, grease | material comparison / product-info first |
+| Reviewer / tech | SFF, mini PC, cooling | SFF / mini PC product-info first |
 | Repair / DIY | laptop thermal control, repair | laptop repaste / repair shop outreach |
-| Social / short video | unboxing, seeding | short video sample outreach |
-| Blog / website | review, comparison | material comparison outreach |
-| Small or mid creator | any | conservative sample trial |
+| Social / short video | unboxing, seeding | product-info first; sample after interest |
+| Blog / website | review, comparison | product-info first; review sample after interest |
+| Small or mid creator | any | conservative product information |
 | Top creator | review | head reviewer partnership |
-| Default | unknown | conservative sample trial |
+| Default | unknown | conservative product information |
+
+## Catalog-First Rule
+
+Thermal interface materials are professional, high-cognition products. Qualified customers usually understand the application and will ask for samples when needed. Do not make the first email feel cheap by offering samples too early.
+
+Use this sequence:
+
+1. First touch: send product catalog, product brochure, datasheet, or application overview.
+2. First reply: clarify application, current material, target conductivity, packaging, and test method.
+3. Sample stage: arrange samples only after the customer replies, confirms a real use case, or directly asks to test.
+4. Follow-up after samples: ask about test result, viscosity/application fit, and next purchasing or engineering step.
+
+Do not start a first-touch email by asking whether to send the message to the recipient or transfer it to engineering/procurement. First ask for permission to send product information to the current email address. If they reply, then ask whether engineering, purchasing, or another window should join the discussion.
+
+Exceptions:
+
+- User explicitly asks for sample outreach.
+- Customer has already requested samples at a trade show or in previous communication.
+- Reviewer/media campaign where sample review is the stated purpose.
 
 ## Segment Angles
 
@@ -70,7 +89,7 @@ Angle:
 - Full conductivity range from 4.5 to 18.0 W/m.K.
 - Retail and bulk packaging: syringe, bottle, blister, box.
 - REACH/ROHS/MSDS/transport documentation available from catalog note.
-- CTA: ask for current SKU range, target price tier, or packaging preference.
+- First-touch CTA: offer catalog/product line and ask for current SKU range, target price tier, or packaging preference.
 
 Use OEM/ODM wording for computer brands, product brands, agents, distributors, and customers who need private-label packaging or resale SKUs.
 
@@ -83,7 +102,7 @@ Angle:
 - CTG12 18.0 W/m.K as premium option.
 - Non-conductive and easy syringe application.
 - 2 g to 10 g retail packs, blister or color box options.
-- CTA: offer sample kit with CTG8, CTG10, and CTG12, plus retail packaging mockup discussion.
+- First-touch CTA: offer CTG8/CTG10/CTG12 product information and packaging overview. Discuss samples only after reply.
 
 ### Data Center / Server Maintenance / System Integrator
 
@@ -93,7 +112,7 @@ Angle:
 - Bottle/bulk packaging supports maintenance teams.
 - 15 years of TIM R&D and manufacturing experience supports trust-building.
 - Discuss target thermal conductivity, viscosity, pump-out resistance, shelf life, and test method.
-- CTA: ask what paste they currently use and whether they can test CTG8/CTG10/CTG12.
+- First-touch CTA: send CTG8/CTG10/CTG12 brochure and datasheets; ask current paste/application after they reply.
 
 Avoid:
 
@@ -108,13 +127,13 @@ Angle:
 - MTP-8301A as the main product for 5G base station / communications equipment.
 - MTP-8301C as the main product for new energy products, SiC, BMS, charging piles.
 - Outdoor/harsher-operation story: stable service life, low oil separation, low volatility, anti-displacement viscosity.
-- CTA: ask for working temperature, gap thickness, application method, or current material.
+- First-touch CTA: offer MTP product information first; ask for working temperature, gap thickness, application method, or current material after reply.
 
 ### Tech Reviewer / Repair Channel / Blogger
 
 Angle:
 
-- Offer simple sample test kit.
+- Start with product information unless the user explicitly asks for a sample/review campaign.
 - Suggest concrete content: CTG8/CTG10/CTG12 vs current paste, laptop repaste, SFF/mini PC temperature comparison.
 - Do not over-control the review. Ask if they are open to testing.
 - CTA: ask shipping address only after they show interest.
@@ -122,7 +141,7 @@ Angle:
 ## Follow-Up Rhythm
 
 - Follow-up 1: 3-5 business days after first email; short reminder with one clear value point.
-- Follow-up 2: 7-10 days later; offer a smaller ask, e.g. "Should I send the catalog or sample options?"
+- Follow-up 2: 7-10 days later; offer a smaller ask, e.g. "Should I send the catalog or datasheets?"
 - Quote follow-up: confirm model, packaging, MOQ, and next decision step.
 - Sample follow-up: ask whether they had a chance to test and whether viscosity/application fit their process.
 
@@ -141,12 +160,12 @@ For actual sending workflows:
 Good subject lines:
 
 - `Thermal paste OEM options for [Company]`
-- `CTG8 / CTG10 / CTG12 thermal paste samples`
+- `CTG8 / CTG10 / CTG12 thermal paste information`
 - `High-performance TIM supplier for CPU/GPU cooling`
 - `Thermal paste packaging options: syringe, bottle, blister`
-- `Sample option for server CPU thermal paste`
+- `CTG8 / CTG10 / CTG12 datasheets for server CPU maintenance`
 - `COMPUTEX 後續：伺服器維護用導熱材料`
-- `台北電腦展後續：CTG 導熱膏測試選項`
+- `台北電腦展後續：CTG 導熱膏資料`
 
 Avoid:
 
@@ -161,6 +180,7 @@ Before final output:
 - Is there one clear buyer type?
 - Is the target-market hypothesis matched to actual customer evidence?
 - Is the product fit region-aware but not region-only?
+- Is this a first-touch email? If yes, use catalog/datasheet CTA instead of sample CTA.
 - Is there one main Maxtor product angle?
 - Are all numbers supported by `maxtor-brand-products.md` or user data?
 - Is the CTA easy to answer?

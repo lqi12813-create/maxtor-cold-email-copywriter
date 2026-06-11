@@ -101,7 +101,7 @@ Internal note on DowSil TC-5888:
 
 - TC-5888 tested range in the note: about 3.3 to 5.7 W/m.K under different pressures by ASTM D5470 method.
 - It is treated as a common competitor in regular server CPU thermal grease.
-- Safe copy: "If you currently use DowSil/Shin-Etsu/Henkel-level paste for server maintenance, Maxtor can discuss a comparable sample and test plan."
+- Safe copy: "If you currently use DowSil/Shin-Etsu/Henkel-level paste for server maintenance, Maxtor can first share CTG8/CTG10/CTG12 information and later discuss a comparable sample and test plan."
 - Avoid: "Maxtor is better than DowSil" unless the exact tested Maxtor model and test method are provided.
 
 ## Source Map

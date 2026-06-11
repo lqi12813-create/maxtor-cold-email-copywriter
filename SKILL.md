@@ -53,12 +53,13 @@ Do not read credential notes or unrelated environment files unless the user expl
    - CTG1/3/6/9 for tiered catalog coverage only when specifically relevant
    - AP-306 for thermal putty and uneven gap-filling needs
    - AP-12/AP-14/XTP-001 for pads or phase-change material contexts
-5. Draft with a small, concrete CTA:
-   - ask whether they are reviewing suppliers,
-   - offer a sample kit,
-   - ask for current specification or target conductivity,
-   - offer OEM packaging options,
-   - suggest a short comparison against current material.
+5. Draft with a small, concrete first step:
+   - for first-touch emails, offer a catalog, product brochure, or datasheet first,
+   - do not open by asking whether to send the email to the recipient or transfer it to engineering/procurement,
+   - ask whether this email address is convenient for product information; discuss the right window after they reply,
+   - reserve sample offers until the customer replies, confirms the application, explicitly asks for testing, or previously requested samples at an event,
+   - ask for current specification, target conductivity, application, or packaging only when it naturally fits the buyer type,
+   - offer OEM packaging options mainly for brands, distributors, agents, or private-label customers.
 6. Return useful variants:
    - For one email: 3 subject lines, one polished body, optional shorter version.
    - For batch work: a table with recipient segment, template type, language, core angle, and CTA.
@@ -71,12 +72,16 @@ Do not read credential notes or unrelated environment files unless the user expl
 - Use one main selling angle per email. Avoid product dumps.
 - Personalize the first line when a recipient name, website, product category, or pain point is available.
 - Before writing, match market and customer fit: Taiwan AI/server manufacturing, US repair services, and Southeast Asia brand/distribution are different starting hypotheses, but customer evidence overrides regional default.
-- Prefer "thermal interface material", "thermal paste", "thermal grease", "thermal pad", "thermal putty", "OEM/ODM", "sample kit", and exact W/m.K claims from the reference.
+- Prefer "thermal interface material", "thermal paste", "thermal grease", "thermal pad", "thermal putty", "OEM/ODM", "product brochure", "datasheet", and exact W/m.K claims from the reference.
 - Use metric notation consistently: `W/m.K` or `W/m·K`; keep one style inside a single email.
 - Never claim "best", "world-leading", "guaranteed lower temperature", or certified performance unless the user provides evidence.
 - Do not imply Maxtor supplies liquid metal or graphene solutions for AI GPU die cooling. For server messaging, focus on regular server CPU maintenance, data center operations, non-die components, or high-performance paste contexts.
 - Avoid spammy openings such as "Hope you are doing great" when a specific buyer pain point can be used instead.
-- Make the reply action frictionless: "Would it be useful if I send the CTG8/CTG10/CTG12 datasheet and sample options?"
+- For professional thermal-material prospects, do not lead with samples in the first email. First send catalog/product information; move to samples after reply or confirmed test interest.
+- Do not make first-touch outreach feel cheap by offering samples too early. Qualified buyers usually request samples when they understand the product fit.
+- For Taiwan/server/trade-show first touches, avoid route-jumping CTAs such as "should I send this to you or engineering/procurement?" Start with: "May I send the CTG8/CTG10/CTG12 product brochure and datasheets to this email?"
+- Use "sample kit" only for sample follow-ups, reviewer/media campaigns, or customers who have already shown testing interest.
+- Make the first-touch reply action frictionless: "Would it be useful if I send the CTG8/CTG10/CTG12 product brochure and datasheets?"
 
 ## Signature
 
