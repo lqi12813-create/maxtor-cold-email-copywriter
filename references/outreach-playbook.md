@@ -45,6 +45,8 @@ www.maxtor-si.com
 
 ## Template Matching
 
+Before template matching, perform a market-fit check using `market-fit-research.md`. The region and event source help choose a first angle, but the customer's actual business model decides the final product and CTA.
+
 | CRM type | Cooperation angle contains | Template family |
 |---|---|---|
 | Reviewer / tech | repaste, thermal paste, grease | material comparison / sample test |
@@ -157,6 +159,8 @@ Avoid:
 Before final output:
 
 - Is there one clear buyer type?
+- Is the target-market hypothesis matched to actual customer evidence?
+- Is the product fit region-aware but not region-only?
 - Is there one main Maxtor product angle?
 - Are all numbers supported by `maxtor-brand-products.md` or user data?
 - Is the CTA easy to answer?

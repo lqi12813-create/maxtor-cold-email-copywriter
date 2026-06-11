@@ -1,6 +1,6 @@
 ---
 name: maxtor-cold-email-copywriter
-description: Use when drafting, revising, translating, personalizing, or batch-planning Maxtor cold emails, B2B outreach, follow-up emails, quote follow-ups, trade show emails, LinkedIn messages, influencer outreach, and thermal paste/TIM sales copy for Maxtor, CTG, MTP, AP, XTP, OEM, ODM, distributor, data center, PC DIY, 5G, EV, industrial, and consumer electronics prospects.
+description: Use when drafting, revising, translating, personalizing, market-researching, or batch-planning Maxtor cold emails, B2B outreach, follow-up emails, quote follow-ups, trade show emails, LinkedIn messages, influencer outreach, and thermal paste/TIM sales copy for Maxtor, CTG, MTP, AP, XTP, OEM, ODM, distributor, data center, PC DIY, 5G, EV, industrial, and consumer electronics prospects.
 ---
 
 # Maxtor Cold Email Copywriter
@@ -14,10 +14,11 @@ Create concise, technically grounded outreach for Maxtor Thermal Solutions based
 Use sources in this order:
 
 1. User-provided brief, CRM fields, recipient website, or uploaded material.
-2. `references/maxtor-brand-products.md` for product, company, segment, and evidence boundaries.
-3. `references/outreach-playbook.md` for targeting, language, safety, signature, and CRM behavior.
-4. `references/templates.md` for reusable email patterns.
-5. If the user asks for latest/current website details, verify `https://www.maxtor-si.com/` before relying on cached facts.
+2. `references/market-fit-research.md` for target-market and customer-fit analysis before writing.
+3. `references/maxtor-brand-products.md` for product, company, segment, and evidence boundaries.
+4. `references/outreach-playbook.md` for targeting, language, safety, signature, and CRM behavior.
+5. `references/templates.md` for reusable email patterns.
+6. If the user asks for latest/current website details, verify `https://www.maxtor-si.com/` before relying on cached facts.
 
 Do not read credential notes or unrelated environment files unless the user explicitly asks for operations work. Do not include login details, private system notes, or internal CRM configuration in customer-facing copy.
 
@@ -32,13 +33,18 @@ Do not read credential notes or unrelated environment files unless the user expl
    - Influencer / reviewer outreach
    - Batch CRM planning or template matching
    - Product positioning or competitor comparison copy
-2. Identify the recipient type:
+2. Run a target-market fit check:
+   - use region and industry as an initial hypothesis,
+   - inspect customer type, website, product line, and likely use case when available,
+   - choose the product angle from customer evidence, not region alone,
+   - if evidence is thin, state the assumed segment internally and write a conservative email.
+3. Identify the recipient type:
    - Distributor, importer, OEM/ODM buyer, brand owner, reseller
    - PC DIY / gaming / e-commerce seller
    - Data center, server maintenance, system integrator
    - 5G, EV, automotive electronics, industrial electronics
    - Tech reviewer, repair channel, blogger, social creator
-3. Pick the product angle:
+4. Pick the product angle:
    - CTG8 as the main value/performance thermal paste
    - CTG10 as the main high-performance thermal paste
    - CTG12 as the main premium/highest-conductivity CTG thermal paste
@@ -47,13 +53,13 @@ Do not read credential notes or unrelated environment files unless the user expl
    - CTG1/3/6/9 for tiered catalog coverage only when specifically relevant
    - AP-306 for thermal putty and uneven gap-filling needs
    - AP-12/AP-14/XTP-001 for pads or phase-change material contexts
-4. Draft with a small, concrete CTA:
+5. Draft with a small, concrete CTA:
    - ask whether they are reviewing suppliers,
    - offer a sample kit,
    - ask for current specification or target conductivity,
    - offer OEM packaging options,
    - suggest a short comparison against current material.
-5. Return useful variants:
+6. Return useful variants:
    - For one email: 3 subject lines, one polished body, optional shorter version.
    - For batch work: a table with recipient segment, template type, language, core angle, and CTA.
    - For revision: explain only the highest-impact changes, then provide the revised copy.
@@ -64,6 +70,7 @@ Do not read credential notes or unrelated environment files unless the user expl
 - Keep first-touch emails short: normally 90-150 English words.
 - Use one main selling angle per email. Avoid product dumps.
 - Personalize the first line when a recipient name, website, product category, or pain point is available.
+- Before writing, match market and customer fit: Taiwan AI/server manufacturing, US repair services, and Southeast Asia brand/distribution are different starting hypotheses, but customer evidence overrides regional default.
 - Prefer "thermal interface material", "thermal paste", "thermal grease", "thermal pad", "thermal putty", "OEM/ODM", "sample kit", and exact W/m.K claims from the reference.
 - Use metric notation consistently: `W/m.K` or `W/m·K`; keep one style inside a single email.
 - Never claim "best", "world-leading", "guaranteed lower temperature", or certified performance unless the user provides evidence.
