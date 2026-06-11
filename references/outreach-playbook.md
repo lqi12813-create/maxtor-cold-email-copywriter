@@ -77,10 +77,11 @@ Use OEM/ODM wording for computer brands, product brands, agents, distributors, a
 Angle:
 
 - CTG8 12.8 W/m.K as high-performance value option.
+- CTG10 14.5 W/m.K as high-performance option.
 - CTG12 18.0 W/m.K as premium option.
 - Non-conductive and easy syringe application.
 - 2 g to 10 g retail packs, blister or color box options.
-- CTA: offer sample kit with CTG8 and CTG12, plus retail packaging mockup discussion.
+- CTA: offer sample kit with CTG8, CTG10, and CTG12, plus retail packaging mockup discussion.
 
 ### Data Center / Server Maintenance / System Integrator
 
@@ -90,7 +91,7 @@ Angle:
 - Bottle/bulk packaging supports maintenance teams.
 - 15 years of TIM R&D and manufacturing experience supports trust-building.
 - Discuss target thermal conductivity, viscosity, pump-out resistance, shelf life, and test method.
-- CTA: ask what paste they currently use and whether they can test CTG6/CTG8/CTG12.
+- CTA: ask what paste they currently use and whether they can test CTG8/CTG10/CTG12.
 
 Avoid:
 
@@ -102,8 +103,8 @@ Avoid:
 
 Angle:
 
-- MTP-8301A for 5G base station / communications equipment.
-- MTP-8301C for new energy products, SiC, BMS, charging piles.
+- MTP-8301A as the main product for 5G base station / communications equipment.
+- MTP-8301C as the main product for new energy products, SiC, BMS, charging piles.
 - Outdoor/harsher-operation story: stable service life, low oil separation, low volatility, anti-displacement viscosity.
 - CTA: ask for working temperature, gap thickness, application method, or current material.
 
@@ -112,7 +113,7 @@ Angle:
 Angle:
 
 - Offer simple sample test kit.
-- Suggest concrete content: CTG8 vs current paste, CTG12 premium test, laptop repaste, SFF/mini PC temperature comparison.
+- Suggest concrete content: CTG8/CTG10/CTG12 vs current paste, laptop repaste, SFF/mini PC temperature comparison.
 - Do not over-control the review. Ask if they are open to testing.
 - CTA: ask shipping address only after they show interest.
 
@@ -138,7 +139,7 @@ For actual sending workflows:
 Good subject lines:
 
 - `Thermal paste OEM options for [Company]`
-- `CTG8 / CTG12 thermal paste samples`
+- `CTG8 / CTG10 / CTG12 thermal paste samples`
 - `High-performance TIM supplier for CPU/GPU cooling`
 - `Thermal paste packaging options: syringe, bottle, blister`
 - `Sample option for server CPU thermal paste`

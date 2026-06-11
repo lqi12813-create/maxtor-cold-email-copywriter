@@ -39,11 +39,12 @@ Do not read credential notes or unrelated environment files unless the user expl
    - 5G, EV, automotive electronics, industrial electronics
    - Tech reviewer, repair channel, blogger, social creator
 3. Pick the product angle:
-   - CTG8 for balanced high performance and price-performance
-   - CTG12 for highest listed CTG conductivity and premium positioning
-   - CTG1/3/6/9/10 for tiered catalog coverage
-   - MTP-8301A for 5G/base station communications equipment
-   - MTP-8301C for new energy, SiC, BMS, and charging pile contexts
+   - CTG8 as the main value/performance thermal paste
+   - CTG10 as the main high-performance thermal paste
+   - CTG12 as the main premium/highest-conductivity CTG thermal paste
+   - MTP-8301A as the main 5G/base station communications thermal paste
+   - MTP-8301C as the main new energy, SiC, BMS, and charging pile thermal paste
+   - CTG1/3/6/9 for tiered catalog coverage only when specifically relevant
    - AP-306 for thermal putty and uneven gap-filling needs
    - AP-12/AP-14/XTP-001 for pads or phase-change material contexts
 4. Draft with a small, concrete CTA:
@@ -68,7 +69,7 @@ Do not read credential notes or unrelated environment files unless the user expl
 - Never claim "best", "world-leading", "guaranteed lower temperature", or certified performance unless the user provides evidence.
 - Do not imply Maxtor supplies liquid metal or graphene solutions for AI GPU die cooling. For server messaging, focus on regular server CPU maintenance, data center operations, non-die components, or high-performance paste contexts.
 - Avoid spammy openings such as "Hope you are doing great" when a specific buyer pain point can be used instead.
-- Make the reply action frictionless: "Would it be useful if I send the CTG8/CTG12 datasheet and sample options?"
+- Make the reply action frictionless: "Would it be useful if I send the CTG8/CTG10/CTG12 datasheet and sample options?"
 
 ## Signature
 

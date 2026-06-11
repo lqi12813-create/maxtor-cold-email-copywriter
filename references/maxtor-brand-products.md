@@ -21,6 +21,13 @@
 
 ## CTG Thermal Paste Series
 
+Primary thermal paste products for outreach:
+
+- CTG8: main value/performance model.
+- CTG10: main high-performance model.
+- CTG12: main premium model and highest listed CTG conductivity.
+- CTG1/CTG3/CTG6/CTG9: keep as tiered catalog options, but do not lead with them unless the customer requirement fits.
+
 | Model | Thermal conductivity | Temperature range | Notes |
 |---|---:|---|---|
 | CTG1 | 4.5 +/- 0.5 W/m.K | -40 to +150 C | entry range |
@@ -34,6 +41,11 @@
 Catalog notes: all CTG products are described as non-conductive, non-toxic, low volatile, and with 5-year shelf life. Website product listings also mention CTG12 18 W/m.K, CTG10 14.5 W/m.K, CTG9 13.5 W/m.K, CTG8 12.8 W/m.K, and CPU/GPU heat dissipation contexts.
 
 ## MTP / Putty / Pad / PCM Lines
+
+Primary industrial/communications thermal paste products for outreach:
+
+- MTP-8301A: main product for 5G base station and communications equipment.
+- MTP-8301C: main product for new energy products, SiC modules, BMS, and charging piles.
 
 | Product | Thermal conductivity | Target use | Outreach angle |
 |---|---:|---|---|

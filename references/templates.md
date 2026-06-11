@@ -17,7 +17,7 @@ Hi [Name/team],
 
 I noticed [Company] works with [computer parts / electronics accessories / thermal products], so I wanted to introduce Maxtor Thermal Solutions.
 
-Maxtor is a thermal interface material manufacturer in Zhongshan, China, focused on CPU/GPU thermal paste and OEM/ODM packaging. Our CTG series covers 4.5 to 18.0 W/m.K, including CTG8 at 12.8 W/m.K for strong price-performance and CTG12 at 18.0 W/m.K for premium applications.
+Maxtor is a thermal interface material manufacturer in Zhongshan, China, focused on CPU/GPU thermal paste and OEM/ODM packaging. Our main CTG models are CTG8 at 12.8 W/m.K, CTG10 at 14.5 W/m.K, and CTG12 at 18.0 W/m.K, covering value-performance to premium applications.
 
 We can support syringe, bottle, blister, box, PE, and OPP packaging for retail or bulk supply.
 
@@ -34,7 +34,7 @@ www.maxtor-si.com
 
 Subject options:
 
-- `CTG8 and CTG12 thermal paste for PC DIY`
+- `CTG8 / CTG10 / CTG12 thermal paste for PC DIY`
 - `Thermal paste samples for gaming PC customers`
 - `Retail thermal paste packaging options`
 
@@ -45,9 +45,9 @@ Hi [Name/team],
 
 I saw that [Company] serves PC builders and gaming hardware users. Maxtor may be a useful thermal paste supplier for your CPU/GPU cooling category.
 
-Our CTG8 thermal paste offers 12.8 W/m.K for a strong performance-to-price option, while CTG12 reaches 18.0 W/m.K for customers who want a higher-end paste. Both are positioned for CPU/GPU heat dissipation and can be packed in syringe, blister, color box, or other retail formats.
+Our main CTG thermal paste range includes CTG8 at 12.8 W/m.K for strong price-performance, CTG10 at 14.5 W/m.K for higher-performance demand, and CTG12 at 18.0 W/m.K for premium applications. They are positioned for CPU/GPU heat dissipation and can be packed in syringe, blister, color box, or other retail formats.
 
-Would you be open to reviewing a small CTG8/CTG12 sample kit and packaging options?
+Would you be open to reviewing a small CTG8/CTG10/CTG12 sample kit and packaging options?
 
 Best regards,
 [Your Name]
@@ -71,11 +71,11 @@ Hi [Name/team],
 
 I am reaching out because server CPU maintenance often needs a stable thermal paste supply in repeatable packaging.
 
-Maxtor has 15 years of thermal interface material R&D and manufacturing experience. Our CTG thermal paste series covers 4.5 to 18.0 W/m.K, with syringe and bottle packaging options for both sample testing and maintenance use.
+Maxtor has 15 years of thermal interface material R&D and manufacturing experience. Our main CTG thermal paste options are CTG8, CTG10, and CTG12, with syringe and bottle packaging options for both sample testing and maintenance use.
 
 If you currently use DowSil, Shin-Etsu, Henkel, or similar thermal grease for CPU-to-heatsink maintenance, we can prepare comparable Maxtor samples for your own test method.
 
-Would you like me to send the CTG6/CTG8/CTG12 options and packaging details?
+Would you like me to send the CTG8/CTG10/CTG12 options and packaging details?
 
 Best regards,
 [Your Name]
@@ -99,9 +99,9 @@ Email:
 
 很高興在台北 COMPUTEX 電腦展與您交流，也謝謝您花時間了解 Maxtor 的導熱材料。
 
-針對伺服器維護、資料中心運維或工業應用場景，導熱膏通常不只是一次性材料，而是需要穩定供應、批次一致性與可重複測試的耗材。Maxtor 擁有 15 年導熱介面材料研發與製造經驗，CTG 系列導熱膏覆蓋 4.5 到 18.0 W/m.K，可依照維護或測試需求提供針筒、瓶裝等包裝。
+針對伺服器維護、資料中心運維或工業應用場景，導熱膏通常不只是一次性材料，而是需要穩定供應、批次一致性與可重複測試的耗材。Maxtor 擁有 15 年導熱介面材料研發與製造經驗，目前主推 CTG8、CTG10、CTG12 三款導熱膏，可依照維護或測試需求提供針筒、瓶裝等包裝。
 
-如果貴司目前有 CPU-to-heatsink 維護、伺服器散熱材料替換，或現有導熱膏對比測試需求，我們可以先提供 CTG6 / CTG8 / CTG12 的資料與樣品選項給您評估。
+如果貴司目前有 CPU-to-heatsink 維護、伺服器散熱材料替換，或現有導熱膏對比測試需求，我們可以先提供 CTG8 / CTG10 / CTG12 的資料與樣品選項給您評估。
 
 請問我是否可以寄一份產品資料與樣品建議給您參考？
 
@@ -178,7 +178,7 @@ Hi [Name/team],
 
 Just following up on my previous email about Maxtor thermal paste.
 
-The most relevant options are likely [CTG8 12.8 W/m.K / CTG12 18.0 W/m.K / MTP-8301A / MTP-8301C], depending on your target application. We can also support retail or bulk packaging if you are comparing suppliers.
+The most relevant options are likely [CTG8 12.8 W/m.K / CTG10 14.5 W/m.K / CTG12 18.0 W/m.K / MTP-8301A / MTP-8301C], depending on your target application. We can also support retail or bulk packaging if you are comparing suppliers.
 
 Should I send a short catalog and sample list for review?
 
@@ -215,7 +215,7 @@ Hi [Name/team],
 
 Just checking whether the quotation for [model/package/quantity] matches your target.
 
-If you need to adjust the cost structure, we can review packaging, capacity, MOQ, or model selection. For example, CTG8 is usually the stronger price-performance option, while CTG12 is positioned for higher-end thermal performance.
+If you need to adjust the cost structure, we can review packaging, capacity, MOQ, or model selection. For example, CTG8 is usually the stronger price-performance option, CTG10 is a high-performance middle option, and CTG12 is positioned for premium thermal performance.
 
 Would you like me to revise the quote based on your preferred target price or packaging?
 
@@ -227,7 +227,7 @@ Maxtor Thermal Solutions
 ## LinkedIn Short Message
 
 ```text
-Hi [Name], Maxtor manufactures thermal paste and TIM products in Zhongshan, China. We support CTG thermal paste from 4.5 to 18.0 W/m.K plus OEM packaging. Would it be useful to send you our CTG8/CTG12 sample options?
+Hi [Name], Maxtor manufactures thermal paste and TIM products in Zhongshan, China. Our main CTG thermal paste models are CTG8, CTG10, and CTG12, plus MTP-8301A/8301C for industrial applications. Would it be useful to send sample options?
 ```
 
 ## Chinese First Touch
@@ -237,7 +237,7 @@ Hi [Name], Maxtor manufactures thermal paste and TIM products in Zhongshan, Chin
 
 看到贵司有 [电脑配件 / 电子元件 / 散热材料 / 工业设备] 相关业务，想简单介绍一下 Maxtor。
 
-Maxtor 是中山的导热界面材料厂家，主要做 CPU/GPU 导热硅脂、导热垫、导热泥及 OEM/ODM 包装。CTG 系列覆盖 4.5 到 18.0 W/m.K，其中 CTG8 主打 12.8 W/m.K 性价比，CTG12 主打 18.0 W/m.K 高性能应用。
+Maxtor 是中山的导热界面材料厂家，主要做 CPU/GPU 导热硅脂、导热垫、导热泥及 OEM/ODM 包装。目前主推 CTG8、CTG10、CTG12 三款导热硅脂，以及 MTP-8301A、MTP-8301C 工业应用型号。
 
 如果贵司正在评估新的导热材料供应商，我可以发一份产品目录和样品方案给您参考。
 
