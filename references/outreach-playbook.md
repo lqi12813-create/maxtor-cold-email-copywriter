@@ -4,6 +4,7 @@
 
 - Maxtor development emails use `zsmaxtor@126.com`.
 - Display name: Maxtor Thermal Solutions.
+- Chinese legal company name for signatures: `中山市迈拓新材料有限公司`.
 - Public website email: `info@maxtor-si.com`.
 - Keep Maxtor and Coxbyte identities separate. Do not send Maxtor outreach with `fred@coxbyte.com`.
 - Default signature:
@@ -12,6 +13,7 @@
 Best regards,
 [Your Name]
 Maxtor Thermal Solutions
+中山市迈拓新材料有限公司
 zsmaxtor@126.com
 www.maxtor-si.com
 ```

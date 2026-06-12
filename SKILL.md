@@ -92,11 +92,13 @@ Use the Maxtor signature unless the user specifies another sender:
 Best regards,
 [Your Name]
 Maxtor Thermal Solutions
+中山市迈拓新材料有限公司
 zsmaxtor@126.com
 www.maxtor-si.com
 ```
 
 Public company email on the website is `info@maxtor-si.com`; Maxtor outbound development emails use `zsmaxtor@126.com` per the local brand mailbox note. Keep Maxtor and Coxbyte identities separate.
+Use `中山市迈拓新材料有限公司` as the Chinese legal company name in email signatures unless the user asks for a shorter signature.
 
 ## Evidence Boundaries
 

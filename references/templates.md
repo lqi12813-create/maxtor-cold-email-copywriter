@@ -26,6 +26,7 @@ Would it be useful if I send our product catalog and CTG datasheets for your rev
 Best regards,
 [Your Name]
 Maxtor Thermal Solutions
+中山市迈拓新材料有限公司
 zsmaxtor@126.com
 www.maxtor-si.com
 ```
@@ -52,6 +53,7 @@ Would it be useful if I send the CTG8/CTG10/CTG12 product information and packag
 Best regards,
 [Your Name]
 Maxtor Thermal Solutions
+中山市迈拓新材料有限公司
 zsmaxtor@126.com
 www.maxtor-si.com
 ```
@@ -80,6 +82,7 @@ Would you like me to send the CTG8/CTG10/CTG12 brochure and datasheets for your 
 Best regards,
 [Your Name]
 Maxtor Thermal Solutions
+中山市迈拓新材料有限公司
 zsmaxtor@126.com
 www.maxtor-si.com
 ```
@@ -108,6 +111,7 @@ Email:
 Best regards,
 Fred
 Maxtor Thermal Solutions
+中山市迈拓新材料有限公司
 zsmaxtor@126.com
 www.maxtor-si.com
 ```
@@ -134,6 +138,7 @@ Would it be useful if I send the MTP-8301A / MTP-8301C product information first
 Best regards,
 [Your Name]
 Maxtor Thermal Solutions
+中山市迈拓新材料有限公司
 zsmaxtor@126.com
 www.maxtor-si.com
 ```
@@ -160,6 +165,7 @@ Would you like me to send the product information first? If it fits your content
 Best regards,
 [Your Name]
 Maxtor Thermal Solutions
+中山市迈拓新材料有限公司
 zsmaxtor@126.com
 www.maxtor-si.com
 ```
@@ -185,6 +191,7 @@ Should I send a short catalog and datasheets for review?
 Best regards,
 [Your Name]
 Maxtor Thermal Solutions
+中山市迈拓新材料有限公司
 ```
 
 ## Follow-Up 2 / Breakup
@@ -206,6 +213,7 @@ Is thermal paste or TIM sourcing something your team is reviewing this quarter? 
 Best regards,
 [Your Name]
 Maxtor Thermal Solutions
+中山市迈拓新材料有限公司
 ```
 
 ## Quote Follow-Up
@@ -222,6 +230,7 @@ Would you like me to revise the quote based on your preferred target price or pa
 Best regards,
 [Your Name]
 Maxtor Thermal Solutions
+中山市迈拓新材料有限公司
 ```
 
 ## LinkedIn Short Message
@@ -244,6 +253,7 @@ Maxtor 是中山的导热界面材料厂家，主要做 CPU/GPU 导热硅脂、�
 Best regards,
 [Your Name]
 Maxtor Thermal Solutions
+中山市迈拓新材料有限公司
 zsmaxtor@126.com
 www.maxtor-si.com
 ```
