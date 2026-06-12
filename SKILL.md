@@ -75,6 +75,7 @@ Do not read credential notes or unrelated environment files unless the user expl
 - Use one main selling angle per email. Avoid product dumps.
 - Personalize the first line when a recipient name, website, product category, or pain point is available.
 - If the recipient has an English name, greet with `Hi [English first name],` rather than the full name, e.g. `Hi David,` not `Hi David Chen,`.
+- When the user asks to match Fred's previous outreach style, preserve the useful traits: respectful but not submissive, manufacturer/R&D credibility, clear application fit, attachment-first information flow, and practical evidence such as experience, certifications, or known comparable materials. Compress long feature lists into short paragraphs and remove stiff courtesy phrases.
 - Before writing, match market and customer fit: Taiwan AI/server manufacturing, US repair services, and Southeast Asia brand/distribution are different starting hypotheses, but customer evidence overrides regional default.
 - Prefer "thermal interface material", "thermal paste", "thermal grease", "thermal pad", "thermal putty", "OEM/ODM", "product brochure", "datasheet", and exact W/m.K claims from the reference.
 - Use metric notation consistently: `W/m.K` or `W/m·K`; keep one style inside a single email.

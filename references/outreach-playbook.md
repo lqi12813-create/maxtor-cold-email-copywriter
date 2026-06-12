@@ -37,6 +37,31 @@ www.maxtor-si.com
 | China / Chinese-speaking region | Chinese |
 | Other or unknown | English |
 
+## Fred Style Adaptation
+
+Use this when the user asks to match Fred's prior outreach style or provides an older Maxtor email as the reference.
+
+Keep:
+
+- Respectful opening and a clear reason for writing.
+- Manufacturer identity: `中山市邁拓新材料有限公司` / `中山市迈拓新材料有限公司`, R&D and manufacturing focus, and 15 years of experience when relevant.
+- A practical application map, e.g. server, industrial equipment, power management, electronics thermal management.
+- Product information as the first step: attachment, catalog, brochure, datasheet, or TDS.
+- A credible evidence feel: certifications, documentation, known current materials, or comparable review context when supported.
+
+Reduce or remove:
+
+- Long courtesy lines such as "百忙之中", "期待與貴公司合作，共同提升產品競爭力", and "順頌商祺" in first-touch emails unless the user asks for a formal letter.
+- Four-point feature lists in the first email. Compress them into one or two short sentences.
+- Broad industry lists unless they help the specific customer understand fit.
+- Early sample offers or aggressive replacement claims.
+
+Tone target:
+
+- Formal enough to feel reliable, short enough to be read on mobile.
+- Not overly humble. Respectful, direct, and information-led.
+- For Taiwan Traditional Chinese, prefer natural B2B wording such as `這邊先附上`, `方便您和團隊參考`, `方向接近的話`, and `我再補更完整的規格資料`.
+
 ## Taiwan / Computex Follow-Up Rules
 
 - For COMPUTEX Taipei / 台北 COMPUTEX leads, write as a post-show follow-up: mention meeting or seeing them at the show before introducing products.
@@ -194,6 +219,7 @@ Before final output:
 - Is there one clear buyer type?
 - Is the target-market hypothesis matched to actual customer evidence?
 - Is the product fit region-aware but not region-only?
+- If Fred's style is requested, does the draft keep the credible manufacturer/documentation feel while removing stiff courtesy and long feature lists?
 - Do all subject lines include `Maxtor Thermal Solutions`, `Maxtor thermal paste`, or title-case `Maxtor Thermal Paste`?
 - Is this a first-touch email? If yes, use catalog/datasheet CTA instead of sample CTA.
 - Is there one main Maxtor product angle?
