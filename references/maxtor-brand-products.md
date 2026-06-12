@@ -80,11 +80,21 @@ Use packaging as a practical OEM/ODM CTA:
 ## Target Applications
 
 - Data center / supercomputing: high-performance CPU/GPU, cloud server, mining machine.
+- Optical communication: high-power laser chips, optical communication modules, optical transceivers, and small-area high-heat-flux components.
 - PC DIY: gaming PC, Switch, PlayStation, CPU/GPU repaste.
 - Automotive electronics: lithium battery, BMS, ECU, LED headlights, in-car electronics.
 - Communication base station: 5G AAU, optical transceiver, server.
 - Industrial: IPC, UPS power supply, sensor, transformer.
 - Consumer electronics: phone, tablet, laptop.
+
+## Optical Communication / Laser Module Framing
+
+Useful optical communication framing:
+
+- High-power laser chips and optical communication modules can involve small contact areas and high heat flux density.
+- CTG10 14.5 W/m.K and CTG12 18.0 W/m.K are suitable first references for high-efficiency thermal paste discussion.
+- AP-14 16.8 W/m.K can be introduced when the customer has gap-filling or thermal pad needs.
+- Keep the first email application-specific: mention the heat issue discussed, attach the catalog, and offer matching TDS if the customer has target thermal specs.
 
 ## Server Market Boundary
 

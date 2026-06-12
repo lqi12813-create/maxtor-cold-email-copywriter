@@ -64,6 +64,13 @@ Tone target:
 - Formal enough to feel reliable, short enough to be read on mobile.
 - Not overly humble. Respectful, direct, and information-led.
 - For Taiwan Traditional Chinese, prefer natural B2B wording such as `這邊先附上`, `方便您和團隊參考`, `方向接近的話`, and `我再補更完整的規格資料`.
+- For application-specific trade-show follow-ups, use a compact technical structure rather than a generic company intro:
+  1. Greeting + event context + exact issue discussed.
+  2. Attach catalog/product brochure for reference.
+  3. Recommend only the most relevant 1-3 products with key values.
+  4. Connect those products to the customer's application scenario.
+  5. Offer matching TDS or specs as the next step.
+- Treat user-provided examples as style references, not fixed copy. Change the product set, application wording, and CTA for each customer.
 
 ## Taiwan / Computex Follow-Up Rules
 
@@ -159,6 +166,23 @@ Avoid:
 - Claiming PTM replacement or compatibility for a specific AI server platform without the customer's application and Maxtor test data.
 - Leading with OEM/ODM unless the server lead is also a brand owner, distributor, or private-label buyer.
 
+### Optical Communication / Laser Module Customer
+
+Use when the buyer discusses optical communication components, high-power laser chips, optical transceivers, optical modules, or small-area high-heat-flux thermal issues.
+
+Angle:
+
+- Start from the exact problem discussed at the event, e.g. optical communication component heat dissipation or laser chip/module thermal management.
+- CTG10 14.5 W/m.K and CTG12 18.0 W/m.K are the first thermal paste references for high-efficiency and small-area high-heat-flux scenarios.
+- AP-14 16.8 W/m.K is relevant when the customer mentions gap filling, pad interfaces, or uneven assemblies.
+- First-touch CTA: attach the catalog first; offer matching TDS after the customer shares target thermal specs, structure, thickness, or current material.
+
+Avoid:
+
+- A generic server-only pitch if the lead is actually an optical communication component customer.
+- Overloading the first email with CTG8, MTP, PTM, pads, putty, and certifications unless the customer discussed those needs.
+- Claiming suitability for a specific laser chip package or optical module platform without the customer's structure and test data.
+
 ### 5G / EV / Industrial Electronics
 
 Angle:
@@ -225,6 +249,7 @@ Before final output:
 - Is the target-market hypothesis matched to actual customer evidence?
 - Is the product fit region-aware but not region-only?
 - If Fred's style is requested, does the draft keep the credible manufacturer/documentation feel while removing stiff courtesy and long feature lists?
+- If this is an application-specific follow-up, does the draft name the customer's actual heat issue and recommend only the relevant products?
 - If the draft starts with `Hi [Name],`, does the next sentence avoid another greeting such as `您好`?
 - For Chinese name/title greetings, is there one half-width space before `您好`, e.g. `黃經理 您好，`?
 - Are thermal paste stability claims written as pump-out resistance / 抗泵出 instead of displacement wording?

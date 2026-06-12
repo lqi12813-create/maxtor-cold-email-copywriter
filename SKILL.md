@@ -48,6 +48,7 @@ Do not read credential notes or unrelated environment files unless the user expl
    - CTG8 as the main value/performance thermal paste
    - CTG10 as the main high-performance thermal paste
    - CTG12 as the main premium/highest-conductivity CTG thermal paste
+   - CTG10/CTG12 as first references for optical communication, laser chip, optical module, and other small-area high-heat-flux thermal paste contexts
    - MTP-8301A as the main 5G/base station communications thermal paste
    - MTP-8301C as the main new energy, SiC, BMS, and charging pile thermal paste
    - CTG1/3/6/9 for tiered catalog coverage only when specifically relevant
@@ -81,10 +82,11 @@ Do not read credential notes or unrelated environment files unless the user expl
 - If the recipient has an English name, greet with `Hi [English first name],` rather than the full name, e.g. `Hi David,` not `Hi David Chen,`.
 - For Chinese greetings with a name or title, put one half-width space between the name/title and `您好`, e.g. `黃經理 您好，`, `王先生 您好，`, or `李小姐 您好，`. If no name/title is available, use `您好，`.
 - Do not double-greet. If the email opens with `Hi Kevin,` or `Hi [First name],`, the next sentence should start directly with the context, e.g. `上週在 COMPUTEX...`, not `您好，上週...`.
+- For Fred's application-specific trade-show follow-up style, do not reuse one fixed template. Build around the customer context: greeting, event + exact problem discussed, attached catalog, 1-3 suitable products with key values, application fit, and a light TDS/spec follow-up offer.
 - When the user asks to match Fred's previous outreach style, preserve the useful traits: respectful but not submissive, manufacturer/R&D credibility, clear application fit, attachment-first information flow, and practical evidence such as experience, certifications, or known comparable materials. Compress long feature lists into short paragraphs and remove stiff courtesy phrases.
 - Before writing, match market and customer fit: Taiwan AI/server manufacturing, US repair services, and Southeast Asia brand/distribution are different starting hypotheses, but customer evidence overrides regional default.
 - Prefer "thermal interface material", "thermal paste", "thermal grease", "thermal pad", "thermal putty", "OEM/ODM", "product brochure", "datasheet", and exact W/m.K claims from the reference.
-- Use metric notation consistently: `W/m.K` or `W/m·K`; keep one style inside a single email.
+- Use metric notation consistently: `W/m.K` or `W/m·K`; keep one style inside a single email. For Chinese technical outreach, prefer `W/m·K`, e.g. `14.5 W/m·K`.
 - Never claim "best", "world-leading", "guaranteed lower temperature", or certified performance unless the user provides evidence.
 - Do not imply Maxtor supplies liquid metal or graphene solutions for AI GPU die cooling. For server messaging, focus on regular server CPU maintenance, data center operations, non-die components, or high-performance paste contexts.
 - When AI server customers mention PTM / phase-change interface materials, include Maxtor's phase-change material angle and XTP-001 where relevant, while avoiding unsupported claims about replacing liquid metal, graphene, or exact GPU die materials.

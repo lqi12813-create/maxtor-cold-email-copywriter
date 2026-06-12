@@ -118,6 +118,33 @@ zsmaxtor@126.com
 www.maxtor-si.com
 ```
 
+## COMPUTEX Taipei Follow-Up: Optical Communication / Laser Module Customer
+
+Subject options:
+
+- `COMPUTEX 後續：Maxtor Thermal Solutions 光通訊散熱資料`
+- `COMPUTEX 後續：Maxtor thermal paste for optical modules`
+- `Maxtor Thermal Solutions 導熱材料圖冊`
+
+Email:
+
+```text
+[姓氏/職稱] 您好，
+
+上週在 COMPUTEX 與您交流 [光通訊元件 / 雷射晶片 / 光通訊模組] 的散熱問題，這邊先附上 Maxtor 的產品圖冊，方便您參考。
+
+針對 [高功率雷射晶片 / 光通訊模組 / 小面積高熱流密度] 的散熱需求，可先參考 CTG10（14.5 W/m·K）與 CTG12（18.0 W/m·K）兩款高效導熱膏；若有間隙填充或墊片需求，也可以看 AP-14（16.8 W/m·K）。
+
+如有特定散熱規格、接觸面積、厚度或現用材料，後續我可以再整理相應 TDS 給您評估。
+
+Best regards,
+[Your Name]
+Maxtor Thermal Solutions
+中山市邁拓新材料有限公司
+zsmaxtor@126.com
+www.maxtor-si.com
+```
+
 ## First Touch: 5G / EV / Industrial Electronics
 
 Subject options:

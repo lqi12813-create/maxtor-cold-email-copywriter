@@ -23,6 +23,7 @@ When evidence is limited, write a conservative email that asks for the customer'
 Likely opportunities:
 
 - AI server and server supply-chain manufacturing.
+- Optical communication, high-power laser chip, and optical transceiver/module thermal management.
 - IPC / industrial computer and electronics manufacturing.
 - COMPUTEX leads who expect practical post-show follow-up.
 - Engineering validation rather than pure price shopping.
@@ -30,7 +31,9 @@ Likely opportunities:
 Suggested product fit:
 
 - CTG10 and CTG12 for higher-performance CPU/heatsink or server-related thermal paste evaluation.
+- CTG10 and CTG12 for small-area, high-heat-flux applications such as high-power laser chips or optical communication modules.
 - CTG8 when the customer cares about cost-performance or maintenance volume.
+- AP-14 when the customer has gap-filling or thermal pad needs around optical communication modules, industrial electronics, or uneven assemblies.
 - XTP-001 / phase-change material when the customer mentions PTM, phase-change interface material, AI server platform materials, or is comparing paste vs PTM routes.
 - MTP-8301A only if the customer is in communications equipment, base station, or related industrial electronics.
 - MTP-8301C only if the customer is in EV, BMS, SiC, charging pile, or new-energy electronics.
@@ -95,6 +98,7 @@ Writing angle:
 |---|---|---|
 | Server manufacturer / AI server supply chain | CTG10, CTG12, XTP-001 if PTM/phase-change is mentioned, then CTG8 for volume | claiming liquid-metal/graphene replacement |
 | Server maintenance / data center operations | CTG8, CTG10, CTG12 | OEM/ODM-first pitch |
+| Optical communication / laser module | CTG10, CTG12, AP-14 if gap filling is needed | generic server-only pitch |
 | Repair shop / repair chain | CTG8, CTG10, CTG12 | overly technical factory pitch |
 | PC DIY distributor / e-commerce seller | CTG8, CTG10, CTG12 | industrial-only language |
 | Brand owner / private label | CTG8, CTG10, CTG12 with packaging options | ignoring packaging/MOQ |
