@@ -13,7 +13,7 @@ Subject options:
 Email:
 
 ```text
-Hi [Name/team],
+Hi [First name/team],
 
 I noticed [Company] works with [computer parts / electronics accessories / thermal products], so I wanted to introduce Maxtor Thermal Solutions.
 
@@ -41,7 +41,7 @@ Subject options:
 Email:
 
 ```text
-Hi [Name/team],
+Hi [First name/team],
 
 I saw that [Company] serves PC builders and gaming hardware users. Maxtor may be a useful thermal paste supplier for your CPU/GPU cooling category.
 
@@ -67,7 +67,7 @@ Subject options:
 Email:
 
 ```text
-Hi [Name/team],
+Hi [First name/team],
 
 I am reaching out because server CPU maintenance often needs a stable thermal paste supply in repeatable packaging.
 
@@ -123,7 +123,7 @@ Subject options:
 Email:
 
 ```text
-Hi [Name/team],
+Hi [First name/team],
 
 I noticed your work in [5G / EV / industrial electronics], where thermal stability and material handling are often as important as conductivity.
 
@@ -149,7 +149,7 @@ Subject options:
 Email:
 
 ```text
-Hi [Name/team],
+Hi [First name/team],
 
 I follow your content on [repaste / PC cooling / laptop repair / SFF builds], and thought Maxtor CTG thermal paste could be relevant for your testing.
 
@@ -174,7 +174,7 @@ Subject options:
 Email:
 
 ```text
-Hi [Name/team],
+Hi [First name/team],
 
 Just following up on my previous email about Maxtor thermal paste.
 
@@ -197,7 +197,7 @@ Subject options:
 Email:
 
 ```text
-Hi [Name/team],
+Hi [First name/team],
 
 I do not want to keep filling your inbox.
 
@@ -211,7 +211,7 @@ Maxtor Thermal Solutions
 ## Quote Follow-Up
 
 ```text
-Hi [Name/team],
+Hi [First name/team],
 
 Just checking whether the quotation for [model/package/quantity] matches your target.
 
@@ -227,7 +227,7 @@ Maxtor Thermal Solutions
 ## LinkedIn Short Message
 
 ```text
-Hi [Name], Maxtor manufactures thermal paste and TIM products in Zhongshan, China. Our main CTG models are CTG8, CTG10, and CTG12, plus MTP-8301A/8301C for industrial applications. Would it be useful if I send a short product overview?
+Hi [First name], Maxtor manufactures thermal paste and TIM products in Zhongshan, China. Our main CTG models are CTG8, CTG10, and CTG12, plus MTP-8301A/8301C for industrial applications. Would it be useful if I send a short product overview?
 ```
 
 ## Chinese First Touch

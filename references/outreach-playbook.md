@@ -19,6 +19,8 @@ www.maxtor-si.com
 ## Greeting Rules
 
 - If CRM lead name is a person: use first word, e.g. `Hi Linus,`.
+- If the person has an English name, use only the English given name / first name, not the full name, e.g. `Hi David,` not `Hi David Chen,`.
+- If both Chinese and English names are available, prefer the English first name for English-style greetings unless the email is fully Chinese/Traditional Chinese and the local name feels more natural.
 - If CRM lead name is a brand/channel/company: use team form, e.g. `Hi Gamers Nexus team,`.
 - If no name is available: `Hi there,`.
 
