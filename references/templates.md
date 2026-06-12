@@ -100,7 +100,7 @@ Email:
 ```text
 Hi [First name]，
 
-您好，上週在 COMPUTEX 有和您聊到伺服器導熱材料，這邊先附上 Maxtor 的產品圖冊，方便您和團隊參考。
+上週在 COMPUTEX 有和您聊到伺服器導熱材料，這邊先附上 Maxtor 的產品圖冊，方便您和團隊參考。
 
 我們是中山市邁拓新材料有限公司，主要做導熱介面材料的研發與製造，已有 15 年經驗。產品方向包含 thermal paste、PTM／相變化材料、導熱墊片及導熱泥等，應用在伺服器、工業設備、電源管理及電子散熱相關場景。
 
@@ -133,7 +133,7 @@ Hi [First name/team],
 
 I noticed your work in [5G / EV / industrial electronics], where thermal stability and material handling are often as important as conductivity.
 
-Maxtor supplies thermal interface materials including MTP-8301A for 5G communication equipment and MTP-8301C for new energy applications such as SiC modules, BMS, and charging piles. We also offer thermal putty and pad options when the gap or assembly process is different from standard paste.
+Maxtor supplies thermal interface materials including MTP-8301A for 5G communication equipment and MTP-8301C for new energy applications such as SiC modules, BMS, and charging piles. We also offer thermal putty and pad options when the gap or assembly process is different from standard paste, and can discuss pump-out resistance when paste stability is a key requirement.
 
 Would it be useful if I send the MTP-8301A / MTP-8301C product information first? If the application matches, we can discuss working temperature, gap thickness, and test requirements afterward.
 

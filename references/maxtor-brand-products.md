@@ -49,7 +49,7 @@ Primary industrial/communications thermal paste products for outreach:
 
 | Product | Thermal conductivity | Target use | Outreach angle |
 |---|---:|---|---|
-| MTP-8301A | 11.2 +/- 0.5 W/m.K | 5G base station AAU/MCU, communication equipment | harsh outdoor operation, special viscosity to prevent displacement |
+| MTP-8301A | 11.2 +/- 0.5 W/m.K | 5G base station AAU/MCU, communication equipment | harsh outdoor operation, special viscosity, pump-out resistance / 抗泵出 |
 | MTP-8301C | 12.0 +/- 0.5 W/m.K | new energy products, SiC module, BMS, charging pile | low oil separation, low volatility, outdoor/industrial reliability |
 | AP-306 | 11.5 +/- 0.5 W/m.K | thermal putty | non-curing gap filling for large or uneven spaces |
 | AP-12 | 14.8 W/m.K | thermal pad, 0.5-3.0 mm | Shore A 35, V0 |

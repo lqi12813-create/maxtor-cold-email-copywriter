@@ -75,6 +75,7 @@ Do not read credential notes or unrelated environment files unless the user expl
 - Use one main selling angle per email. Avoid product dumps.
 - Personalize the first line when a recipient name, website, product category, or pain point is available.
 - If the recipient has an English name, greet with `Hi [English first name],` rather than the full name, e.g. `Hi David,` not `Hi David Chen,`.
+- Do not double-greet. If the email opens with `Hi Kevin,` or `Hi [First name],`, the next sentence should start directly with the context, e.g. `上週在 COMPUTEX...`, not `您好，上週...`.
 - When the user asks to match Fred's previous outreach style, preserve the useful traits: respectful but not submissive, manufacturer/R&D credibility, clear application fit, attachment-first information flow, and practical evidence such as experience, certifications, or known comparable materials. Compress long feature lists into short paragraphs and remove stiff courtesy phrases.
 - Before writing, match market and customer fit: Taiwan AI/server manufacturing, US repair services, and Southeast Asia brand/distribution are different starting hypotheses, but customer evidence overrides regional default.
 - Prefer "thermal interface material", "thermal paste", "thermal grease", "thermal pad", "thermal putty", "OEM/ODM", "product brochure", "datasheet", and exact W/m.K claims from the reference.
@@ -82,6 +83,7 @@ Do not read credential notes or unrelated environment files unless the user expl
 - Never claim "best", "world-leading", "guaranteed lower temperature", or certified performance unless the user provides evidence.
 - Do not imply Maxtor supplies liquid metal or graphene solutions for AI GPU die cooling. For server messaging, focus on regular server CPU maintenance, data center operations, non-die components, or high-performance paste contexts.
 - When AI server customers mention PTM / phase-change interface materials, include Maxtor's phase-change material angle and XTP-001 where relevant, while avoiding unsupported claims about replacing liquid metal, graphene, or exact GPU die materials.
+- For thermal paste stability, use `pump-out resistance` / `抗泵出` rather than displacement wording.
 - Avoid spammy openings such as "Hope you are doing great" when a specific buyer pain point can be used instead.
 - For professional thermal-material prospects, do not lead with samples in the first email. First send catalog/product information; move to samples after reply or confirmed test interest.
 - Do not make first-touch outreach feel cheap by offering samples too early. Qualified buyers usually request samples when they understand the product fit.

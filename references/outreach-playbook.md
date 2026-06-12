@@ -25,6 +25,7 @@ www.maxtor-si.com
 - If both Chinese and English names are available, prefer the English first name for English-style greetings unless the email is fully Chinese/Traditional Chinese and the local name feels more natural.
 - If CRM lead name is a brand/channel/company: use team form, e.g. `Hi Gamers Nexus team,`.
 - If no name is available: `Hi there,`.
+- Avoid double greetings. After `Hi Kevin,` / `Hi [First name],`, start the next line with the actual context, e.g. `上週在 COMPUTEX...`; do not write `您好，上週...`.
 
 ## Language Rules
 
@@ -52,6 +53,7 @@ Keep:
 Reduce or remove:
 
 - Long courtesy lines such as "百忙之中", "期待與貴公司合作，共同提升產品競爭力", and "順頌商祺" in first-touch emails unless the user asks for a formal letter.
+- Duplicate greetings such as `Hi Kevin,` followed by `您好，`.
 - Four-point feature lists in the first email. Compress them into one or two short sentences.
 - Broad industry lists unless they help the specific customer understand fit.
 - Early sample offers or aggressive replacement claims.
@@ -162,7 +164,7 @@ Angle:
 
 - MTP-8301A as the main product for 5G base station / communications equipment.
 - MTP-8301C as the main product for new energy products, SiC, BMS, charging piles.
-- Outdoor/harsher-operation story: stable service life, low oil separation, low volatility, anti-displacement viscosity.
+- Outdoor/harsher-operation story: stable service life, low oil separation, low volatility, and pump-out resistance / 抗泵出. Avoid displacement wording for thermal paste.
 - First-touch CTA: offer MTP product information first; ask for working temperature, gap thickness, application method, or current material after reply.
 
 ### Tech Reviewer / Repair Channel / Blogger
@@ -220,6 +222,8 @@ Before final output:
 - Is the target-market hypothesis matched to actual customer evidence?
 - Is the product fit region-aware but not region-only?
 - If Fred's style is requested, does the draft keep the credible manufacturer/documentation feel while removing stiff courtesy and long feature lists?
+- If the draft starts with `Hi [Name],`, does the next sentence avoid another greeting such as `您好`?
+- Are thermal paste stability claims written as pump-out resistance / 抗泵出 instead of displacement wording?
 - Do all subject lines include `Maxtor Thermal Solutions`, `Maxtor thermal paste`, or title-case `Maxtor Thermal Paste`?
 - Is this a first-touch email? If yes, use catalog/datasheet CTA instead of sample CTA.
 - Is there one main Maxtor product angle?
