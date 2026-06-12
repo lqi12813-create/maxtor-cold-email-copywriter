@@ -61,7 +61,11 @@ Do not read credential notes or unrelated environment files unless the user expl
    - reserve sample offers until the customer replies, confirms the application, explicitly asks for testing, or previously requested samples at an event,
    - ask for current specification, target conductivity, application, or packaging only when it naturally fits the buyer type,
    - offer OEM packaging options mainly for brands, distributors, agents, or private-label customers.
-6. Return useful variants:
+6. If the user explicitly asks to connect or send from `zsmaxtor@126.com`, use `scripts/send_maxtor_email.py` with SMTP credentials stored only in local `.env`:
+   - copy `.env.example` to `.env` and use the 126 authorization code as `SMTP_PASSWORD`, never the login password,
+   - default mode is dry-run; run with `--send` only after the recipient, subject, body, and attachments are reviewed,
+   - never commit `.env`, authorization codes, recipient exports, or generated `.eml` files.
+7. Return useful variants:
    - For one email: 3 subject lines, one polished body, optional shorter version.
    - For batch work: a table with recipient segment, template type, language, core angle, and CTA.
    - For revision: explain only the highest-impact changes, then provide the revised copy.
