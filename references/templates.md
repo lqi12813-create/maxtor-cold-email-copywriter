@@ -6,9 +6,9 @@ Use these as patterns, not rigid scripts. Personalize the opening line and choos
 
 Subject options:
 
-- `Thermal paste OEM options for [Company]`
-- `Maxtor CTG thermal paste product information`
-- `CPU/GPU thermal paste supplier from Zhongshan`
+- `Maxtor thermal paste OEM options for [Company]`
+- `Maxtor thermal paste CTG product information`
+- `Maxtor Thermal Solutions CPU/GPU thermal paste supplier`
 
 Email:
 
@@ -35,9 +35,9 @@ www.maxtor-si.com
 
 Subject options:
 
-- `CTG8 / CTG10 / CTG12 thermal paste for PC DIY`
-- `Thermal paste product line for gaming PC customers`
-- `Retail thermal paste packaging options`
+- `Maxtor thermal paste CTG8 / CTG10 / CTG12 for PC DIY`
+- `Maxtor thermal paste product line for gaming PC customers`
+- `Maxtor thermal paste retail packaging options`
 
 Email:
 
@@ -62,9 +62,9 @@ www.maxtor-si.com
 
 Subject options:
 
-- `Thermal paste option for server CPU maintenance`
-- `Bulk TIM supply for data center maintenance`
-- `CTG product information for CPU heatsink maintenance`
+- `Maxtor thermal paste option for server CPU maintenance`
+- `Maxtor Thermal Solutions bulk TIM supply for data center maintenance`
+- `Maxtor thermal paste CTG information for CPU heatsink maintenance`
 
 Email:
 
@@ -91,9 +91,9 @@ www.maxtor-si.com
 
 Subject options:
 
-- `COMPUTEX 後續：Maxtor CTG / PTM 導熱材料資料`
-- `台北電腦展後續：Maxtor 導熱材料圖冊`
-- `COMPUTEX 後續：AI 伺服器導熱材料`
+- `COMPUTEX 後續：Maxtor Thermal Solutions CTG / PTM 資料`
+- `台北電腦展後續：Maxtor Thermal Solutions 導熱材料圖冊`
+- `COMPUTEX 後續：Maxtor Thermal Solutions AI 伺服器導熱材料`
 
 Email:
 
@@ -120,9 +120,9 @@ www.maxtor-si.com
 
 Subject options:
 
-- `Thermal interface material for 5G and EV electronics`
-- `MTP thermal paste for harsh operating environments`
-- `TIM product information for BMS / charging pile / base station`
+- `Maxtor Thermal Solutions TIM for 5G and EV electronics`
+- `Maxtor thermal paste MTP for harsh operating environments`
+- `Maxtor Thermal Solutions TIM information for BMS / charging pile / base station`
 
 Email:
 
@@ -147,9 +147,9 @@ www.maxtor-si.com
 
 Subject options:
 
-- `Maxtor CTG thermal paste for testing`
-- `CTG8 / CTG10 / CTG12 thermal paste review idea`
-- `Thermal paste comparison idea for your channel`
+- `Maxtor thermal paste CTG for testing`
+- `Maxtor thermal paste CTG8 / CTG10 / CTG12 review idea`
+- `Maxtor thermal paste comparison idea for your channel`
 
 Email:
 
@@ -175,7 +175,7 @@ www.maxtor-si.com
 Subject options:
 
 - `Re: Maxtor thermal paste information`
-- `Quick follow-up on CTG8 / CTG12`
+- `Quick follow-up on Maxtor thermal paste CTG8 / CTG12`
 
 Email:
 
@@ -198,8 +198,8 @@ Maxtor Thermal Solutions
 
 Subject options:
 
-- `Should I contact someone else?`
-- `Close the loop on Maxtor TIM information`
+- `Maxtor Thermal Solutions TIM follow-up`
+- `Close the loop on Maxtor Thermal Solutions TIM information`
 
 Email:
 

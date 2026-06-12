@@ -70,6 +70,7 @@ Do not read credential notes or unrelated environment files unless the user expl
 
 - Default email language is English unless the recipient is clearly Chinese-speaking or the user asks otherwise.
 - Keep first-touch emails short: normally 90-150 English words.
+- Every subject line should include either `Maxtor Thermal Solutions` for brand/company framing or `Maxtor thermal paste` for product framing. Avoid bare `Maxtor` alone in subject lines unless space is very tight.
 - Use one main selling angle per email. Avoid product dumps.
 - Personalize the first line when a recipient name, website, product category, or pain point is available.
 - If the recipient has an English name, greet with `Hi [English first name],` rather than the full name, e.g. `Hi David,` not `Hi David Chen,`.

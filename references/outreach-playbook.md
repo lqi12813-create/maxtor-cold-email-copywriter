@@ -165,16 +165,18 @@ For actual sending workflows:
 
 ## Subject Line Rules
 
+Every subject line should include either `Maxtor Thermal Solutions` for brand/company framing or `Maxtor thermal paste` for product framing. Avoid bare `Maxtor` alone in subject lines unless space is very tight.
+
 Good subject lines:
 
-- `Thermal paste OEM options for [Company]`
-- `CTG8 / CTG10 / CTG12 thermal paste information`
-- `High-performance TIM supplier for CPU/GPU cooling`
-- `Thermal paste packaging options: syringe, bottle, blister`
-- `CTG8 / CTG10 / CTG12 datasheets for server CPU maintenance`
-- `COMPUTEX 後續：CTG / PTM 導熱材料資料`
-- `COMPUTEX 後續：伺服器維護用導熱材料`
-- `台北電腦展後續：CTG 導熱膏資料`
+- `Maxtor thermal paste OEM options for [Company]`
+- `Maxtor thermal paste CTG8 / CTG10 / CTG12 information`
+- `Maxtor Thermal Solutions TIM for CPU/GPU cooling`
+- `Maxtor thermal paste packaging options: syringe, bottle, blister`
+- `Maxtor Thermal Solutions datasheets for server CPU maintenance`
+- `COMPUTEX 後續：Maxtor Thermal Solutions CTG / PTM 資料`
+- `COMPUTEX 後續：Maxtor Thermal Solutions 伺服器導熱材料`
+- `台北電腦展後續：Maxtor thermal paste / PTM 資料`
 
 Avoid:
 
@@ -189,6 +191,7 @@ Before final output:
 - Is there one clear buyer type?
 - Is the target-market hypothesis matched to actual customer evidence?
 - Is the product fit region-aware but not region-only?
+- Do all subject lines include `Maxtor Thermal Solutions` or `Maxtor thermal paste`?
 - Is this a first-touch email? If yes, use catalog/datasheet CTA instead of sample CTA.
 - Is there one main Maxtor product angle?
 - Are all numbers supported by `maxtor-brand-products.md` or user data?
