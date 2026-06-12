@@ -8,11 +8,14 @@ body, and attachments have been reviewed.
 from __future__ import annotations
 
 import argparse
+import imaplib
 import mimetypes
 import os
+import re
 import smtplib
 import ssl
 import sys
+from email.utils import formatdate
 from email.message import EmailMessage
 from email.utils import formataddr, make_msgid
 from pathlib import Path
@@ -20,6 +23,8 @@ from pathlib import Path
 
 DEFAULT_HOST = "smtp.126.com"
 DEFAULT_PORT = 465
+DEFAULT_IMAP_HOST = "imap.126.com"
+DEFAULT_IMAP_PORT = 993
 DEFAULT_FROM = "zsmaxtor@126.com"
 DEFAULT_FROM_NAME = "Maxtor Thermal Solutions"
 
@@ -86,8 +91,6 @@ def build_message(args: argparse.Namespace, config: dict[str, object]) -> EmailM
     cc_addresses = split_addresses(args.cc)
     bcc_addresses = split_addresses(args.bcc)
 
-    if not to_addresses:
-        raise SystemExit("At least one --to address is required.")
     if not args.subject:
         raise SystemExit("--subject is required.")
 
@@ -102,12 +105,14 @@ def build_message(args: argparse.Namespace, config: dict[str, object]) -> EmailM
 
     message = EmailMessage()
     message["From"] = formataddr((from_name, from_email))
-    message["To"] = ", ".join(to_addresses)
+    if to_addresses:
+        message["To"] = ", ".join(to_addresses)
     if cc_addresses:
         message["Cc"] = ", ".join(cc_addresses)
     if reply_to:
         message["Reply-To"] = reply_to
     message["Subject"] = args.subject
+    message["Date"] = formatdate(localtime=True)
     message["Message-ID"] = make_msgid(domain=from_email.split("@")[-1])
 
     if text_body:
@@ -138,7 +143,7 @@ def smtp_connect(config: dict[str, object]):
     return smtp
 
 
-def login(smtp, config: dict[str, object]) -> None:
+def smtp_login(smtp, config: dict[str, object]) -> None:
     username = str(config.get("username") or "")
     password = str(config.get("password") or "")
     if not username or not password:
@@ -150,15 +155,107 @@ def login(smtp, config: dict[str, object]) -> None:
 
 
 def send_message(message: EmailMessage, config: dict[str, object]) -> None:
+    if not message._maxtor_all_recipients:  # type: ignore[attr-defined]
+        raise SystemExit("At least one --to, --cc, or --bcc address is required for --send.")
     with smtp_connect(config) as smtp:
-        login(smtp, config)
+        smtp_login(smtp, config)
         smtp.send_message(message, to_addrs=message._maxtor_all_recipients)  # type: ignore[attr-defined]
 
 
 def check_login(config: dict[str, object]) -> None:
     with smtp_connect(config) as smtp:
-        login(smtp, config)
+        smtp_login(smtp, config)
     print(f"SMTP login OK: {config['username']} via {config['host']}:{config['port']}")
+
+
+def imap_connect(config: dict[str, object]):
+    host = str(config["imap_host"])
+    port = int(config["imap_port"])
+    timeout = int(config["timeout"])
+    if bool(config["imap_ssl"]):
+        return imaplib.IMAP4_SSL(host, port, timeout=timeout)
+    return imaplib.IMAP4(host, port, timeout=timeout)
+
+
+def imap_login(imap, config: dict[str, object]) -> None:
+    username = str(config.get("imap_username") or config.get("username") or "")
+    password = str(config.get("imap_password") or config.get("password") or "")
+    if not username or not password:
+        raise SystemExit(
+            "IMAP credentials are missing. Put SMTP_USERNAME and SMTP_PASSWORD "
+            "or IMAP_USERNAME and IMAP_PASSWORD in .env."
+        )
+    imap.login(username, password)
+
+
+def parse_mailbox_line(raw_line: bytes) -> tuple[str, str]:
+    line = raw_line.decode("utf-8", errors="replace")
+    match = re.match(r'^\((?P<flags>.*?)\) "(?P<delimiter>.*?)" (?P<name>.+)$', line)
+    if not match:
+        return "", line
+    flags = match.group("flags")
+    name = match.group("name").strip()
+    if name.startswith('"') and name.endswith('"'):
+        name = name[1:-1]
+    return flags, name
+
+
+def list_mailboxes(config: dict[str, object]) -> list[tuple[str, str]]:
+    with imap_connect(config) as imap:
+        imap_login(imap, config)
+        typ, data = imap.list()
+        if typ != "OK":
+            raise SystemExit("Unable to list IMAP mailboxes.")
+        mailboxes = [parse_mailbox_line(item) for item in data or []]
+        imap.logout()
+    return mailboxes
+
+
+def find_drafts_folder(config: dict[str, object]) -> str:
+    configured = str(config.get("imap_drafts_folder") or "").strip()
+    if configured:
+        return configured
+
+    mailboxes = list_mailboxes(config)
+    for flags, name in mailboxes:
+        if "\\Drafts" in flags:
+            return name
+
+    for _flags, name in mailboxes:
+        if name.lower() in {"drafts", "draft", "草稿箱"}:
+            return name
+
+    raise SystemExit(
+        "Unable to find the Drafts mailbox automatically. Set IMAP_DRAFTS_FOLDER in .env."
+    )
+
+
+def check_imap_login(config: dict[str, object]) -> None:
+    with imap_connect(config) as imap:
+        imap_login(imap, config)
+        imap.logout()
+    print(
+        f"IMAP login OK: {config.get('imap_username') or config.get('username')} "
+        f"via {config['imap_host']}:{config['imap_port']}"
+    )
+
+
+def show_mailboxes(config: dict[str, object]) -> None:
+    for flags, name in list_mailboxes(config):
+        print(f"{name}\t{flags}")
+
+
+def save_draft(message: EmailMessage, config: dict[str, object], folder: str | None = None) -> str:
+    mailbox = folder or find_drafts_folder(config)
+    with imap_connect(config) as imap:
+        imap_login(imap, config)
+        typ, data = imap.append(mailbox, r"(\Draft)", None, bytes(message))
+        imap.logout()
+    if typ != "OK":
+        detail = data[0].decode("utf-8", errors="replace") if data else "no detail"
+        raise SystemExit(f"Failed to save draft to {mailbox}: {detail}")
+    print(f"Draft saved to IMAP mailbox: {mailbox}")
+    return mailbox
 
 
 def save_eml(message: EmailMessage, save_path: str) -> None:
@@ -180,6 +277,12 @@ def get_config(args: argparse.Namespace) -> dict[str, object]:
         "from_name": os.getenv("SMTP_FROM_NAME") or DEFAULT_FROM_NAME,
         "reply_to": os.getenv("SMTP_REPLY_TO") or "",
         "timeout": int(os.getenv("SMTP_TIMEOUT", "30")),
+        "imap_host": args.imap_host or os.getenv("IMAP_HOST", DEFAULT_IMAP_HOST),
+        "imap_port": args.imap_port or int(os.getenv("IMAP_PORT", str(DEFAULT_IMAP_PORT))),
+        "imap_ssl": parse_bool(os.getenv("IMAP_SSL"), True),
+        "imap_username": os.getenv("IMAP_USERNAME") or os.getenv("SMTP_USERNAME") or os.getenv("SMTP_USER") or "",
+        "imap_password": os.getenv("IMAP_PASSWORD") or os.getenv("SMTP_PASSWORD") or os.getenv("SMTP_PASS") or "",
+        "imap_drafts_folder": os.getenv("IMAP_DRAFTS_FOLDER") or "",
     }
 
 
@@ -199,8 +302,14 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--reply-to", help="Override Reply-To email.")
     parser.add_argument("--smtp-host", help="Override SMTP host.")
     parser.add_argument("--smtp-port", type=int, help="Override SMTP port.")
+    parser.add_argument("--imap-host", help="Override IMAP host.")
+    parser.add_argument("--imap-port", type=int, help="Override IMAP port.")
+    parser.add_argument("--draft-folder", help="Override IMAP drafts mailbox.")
     parser.add_argument("--save-eml", help="Save the MIME message to an .eml file.")
     parser.add_argument("--check-login", action="store_true", help="Only verify SMTP login.")
+    parser.add_argument("--check-imap-login", action="store_true", help="Only verify IMAP login.")
+    parser.add_argument("--list-mailboxes", action="store_true", help="List IMAP mailboxes.")
+    parser.add_argument("--save-draft", action="store_true", help="Save the email to the IMAP Drafts mailbox.")
     parser.add_argument("--send", action="store_true", help="Actually send. Without this flag, only dry-run.")
     return parser
 
@@ -214,6 +323,12 @@ def main(argv: list[str]) -> int:
     if args.check_login:
         check_login(config)
         return 0
+    if args.check_imap_login:
+        check_imap_login(config)
+        return 0
+    if args.list_mailboxes:
+        show_mailboxes(config)
+        return 0
 
     message = build_message(args, config)
     if args.save_eml:
@@ -225,7 +340,10 @@ def main(argv: list[str]) -> int:
     print(f"Subject: {message['Subject']}")
 
     if not args.send:
-        print("Dry run only. Add --send after the email is reviewed and approved.")
+        if args.save_draft:
+            save_draft(message, config, args.draft_folder)
+            return 0
+        print("Dry run only. Add --save-draft to put it in Drafts, or --send after approval.")
         return 0
 
     send_message(message, config)

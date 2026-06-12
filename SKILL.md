@@ -64,7 +64,7 @@ Do not read credential notes or unrelated environment files unless the user expl
    - offer OEM packaging options mainly for brands, distributors, agents, or private-label customers.
 6. If the user explicitly asks to connect or send from `zsmaxtor@126.com`, use `scripts/send_maxtor_email.py` with SMTP credentials stored only in local `.env`:
    - copy `.env.example` to `.env` and use the 126 authorization code as `SMTP_PASSWORD`, never the login password,
-   - default mode is dry-run; run with `--send` only after the recipient, subject, body, and attachments are reviewed,
+   - default mode is dry-run; use `--save-draft` to place a reviewed email in the 126 Drafts mailbox via IMAP, or `--send` only after the recipient, subject, body, and attachments are reviewed,
    - never commit `.env`, authorization codes, recipient exports, or generated `.eml` files.
 7. Return useful variants:
    - For one email: 3 subject lines, one polished body, optional shorter version.

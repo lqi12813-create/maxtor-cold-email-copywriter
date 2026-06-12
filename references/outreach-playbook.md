@@ -214,7 +214,7 @@ For actual sending workflows:
 
 - Show recipient list and matched template before sending.
 - For `zsmaxtor@126.com` SMTP sending, use `scripts/send_maxtor_email.py`; keep the 126 authorization code only in local `.env`, never in the repository or customer-facing content.
-- Run a dry-run or save an `.eml` preview before actual sending. Use `--send` only after the user approves the exact recipient, subject, body, and attachments.
+- Run a dry-run or save an `.eml` preview before actual sending. Use `--save-draft` for 126 Drafts via IMAP when the user wants a webmail draft. Use `--send` only after the user approves the exact recipient, subject, body, and attachments.
 - Batch limit: up to 10 emails per batch.
 - Leave at least 30 minutes between batches.
 - Default sending window: 09:00-21:00 Beijing time.
