@@ -43,6 +43,7 @@ www.maxtor-si.com
 - Use Traditional Chinese by default for Taiwan customers.
 - Do not emphasize "China" or geographic origin in the opening. Prefer "Maxtor Thermal Solutions", "Maxtor 研發與製造團隊", or "我們團隊".
 - Emphasize 15 years of thermal interface material R&D and manufacturing experience when trust-building is needed.
+- If AI server leads mention PTM / 相變介面材料, include XTP-001 or Maxtor phase-change material as a relevant catalog point alongside CTG8/CTG10/CTG12.
 - Keep tone professional, warm, and practical. Taiwanese B2B follow-up should feel like a continuation of a conversation, not a cold pitch.
 - If the lead is a server maintenance, data center, industrial PC, or terminal industrial application customer, do not lead with OEM/ODM. Lead with application fit, stability, product information, packaging for maintenance, and supply continuity.
 - Use OEM/ODM mainly for computer brands, product brands, agents, distributors, and private-label or resale customers.
@@ -113,15 +114,17 @@ Angle:
 Angle:
 
 - Regular server CPU maintenance uses thermal paste as recurring consumable.
+- AI server customers may also discuss PTM / phase-change interface materials; mention Maxtor phase-change material only if relevant to the conversation or customer's application.
 - Bottle/bulk packaging supports maintenance teams.
 - 15 years of TIM R&D and manufacturing experience supports trust-building.
 - Discuss target thermal conductivity, viscosity, pump-out resistance, shelf life, and test method.
-- First-touch CTA: send CTG8/CTG10/CTG12 brochure and datasheets; ask current paste/application after they reply.
+- First-touch CTA: send CTG8/CTG10/CTG12 brochure and datasheets, and include PTM/phase-change material pages when the customer mentioned PTM; ask current material/application after they reply.
 
 Avoid:
 
 - Claiming Maxtor solves AI GPU die liquid-metal requirements.
 - Treating 18 W/m.K paste as a replacement for liquid metal or graphene at 30+ W/m.K.
+- Claiming PTM replacement or compatibility for a specific AI server platform without the customer's application and Maxtor test data.
 - Leading with OEM/ODM unless the server lead is also a brand owner, distributor, or private-label buyer.
 
 ### 5G / EV / Industrial Electronics
@@ -168,6 +171,7 @@ Good subject lines:
 - `High-performance TIM supplier for CPU/GPU cooling`
 - `Thermal paste packaging options: syringe, bottle, blister`
 - `CTG8 / CTG10 / CTG12 datasheets for server CPU maintenance`
+- `COMPUTEX 後續：CTG / PTM 導熱材料資料`
 - `COMPUTEX 後續：伺服器維護用導熱材料`
 - `台北電腦展後續：CTG 導熱膏資料`
 

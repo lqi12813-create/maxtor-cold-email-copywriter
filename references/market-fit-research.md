@@ -31,6 +31,7 @@ Suggested product fit:
 
 - CTG10 and CTG12 for higher-performance CPU/heatsink or server-related thermal paste evaluation.
 - CTG8 when the customer cares about cost-performance or maintenance volume.
+- XTP-001 / phase-change material when the customer mentions PTM, phase-change interface material, AI server platform materials, or is comparing paste vs PTM routes.
 - MTP-8301A only if the customer is in communications equipment, base station, or related industrial electronics.
 - MTP-8301C only if the customer is in EV, BMS, SiC, charging pile, or new-energy electronics.
 
@@ -40,7 +41,7 @@ Writing angle:
 - Mention COMPUTEX / meeting context if relevant.
 - Emphasize 15 years of TIM R&D and manufacturing experience.
 - Avoid emphasizing geographic origin.
-- For AI server manufacturing, do not claim Maxtor replaces liquid metal or graphene GPU-die solutions. Position product information for CPU-to-heatsink, non-die components, production validation, maintenance, or comparable thermal paste applications.
+- For AI server manufacturing, do not claim Maxtor replaces liquid metal or graphene GPU-die solutions. Position product information for CPU-to-heatsink, non-die components, production validation, maintenance, comparable thermal paste applications, or PTM / phase-change material discussion when the customer raises that topic.
 
 ### United States
 
@@ -90,7 +91,7 @@ Writing angle:
 
 | Customer type | Default products | Avoid |
 |---|---|---|
-| Server manufacturer / AI server supply chain | CTG10, CTG12, then CTG8 for volume | claiming liquid-metal/graphene replacement |
+| Server manufacturer / AI server supply chain | CTG10, CTG12, XTP-001 if PTM/phase-change is mentioned, then CTG8 for volume | claiming liquid-metal/graphene replacement |
 | Server maintenance / data center operations | CTG8, CTG10, CTG12 | OEM/ODM-first pitch |
 | Repair shop / repair chain | CTG8, CTG10, CTG12 | overly technical factory pitch |
 | PC DIY distributor / e-commerce seller | CTG8, CTG10, CTG12 | industrial-only language |

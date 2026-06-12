@@ -56,6 +56,13 @@ Primary industrial/communications thermal paste products for outreach:
 | AP-14 | 16.8 W/m.K | thermal pad, 0.5-3.0 mm | Shore A 35, V0 |
 | XTP-001 | 22.5 W/m.K | phase-change material, 0.25 mm | ultra-thin PCM, Shore 00 50, V0 |
 
+PTM / phase-change note:
+
+- Some AI server and server supply-chain customers may ask about PTM / phase-change interface materials after COMPUTEX.
+- Use XTP-001 as Maxtor's phase-change material reference when PTM is mentioned.
+- Safe copy: "We also have phase-change material options such as XTP-001 if your team is comparing paste and PTM routes."
+- Avoid: claiming XTP-001 replaces liquid metal, graphene, or any exact AI GPU die material unless the customer provides the application and Maxtor provides matching test data.
+
 ## Packaging Options
 
 Use packaging as a practical OEM/ODM CTA:
@@ -92,7 +99,7 @@ Useful server framing:
 Boundary:
 
 - Do not position Maxtor as a liquid metal or graphene supplier for AI GPU die/cold-plate interfaces.
-- If mentioning AI servers, keep it narrow: non-die components, regular CPU/server maintenance, or "not every server TIM requirement is liquid metal."
+- If mentioning AI servers, keep it narrow: non-die components, regular CPU/server maintenance, PTM/phase-change material discussion when customers raise it, or "not every server TIM requirement is liquid metal."
 - Use OEM/ODM mainly for computer brands, product brands, agents, distributors, and private-label/resale customers, not for server end-use maintenance customers.
 
 ## Competitor Comparison Boundary

@@ -1,6 +1,6 @@
 ---
 name: maxtor-cold-email-copywriter
-description: Use when drafting, revising, translating, personalizing, market-researching, or batch-planning Maxtor cold emails, B2B outreach, follow-up emails, quote follow-ups, trade show emails, LinkedIn messages, influencer outreach, and thermal paste/TIM sales copy for Maxtor, CTG, MTP, AP, XTP, OEM, ODM, distributor, data center, PC DIY, 5G, EV, industrial, and consumer electronics prospects.
+description: Use when drafting, revising, translating, personalizing, market-researching, or batch-planning Maxtor cold emails, B2B outreach, follow-up emails, quote follow-ups, trade show emails, LinkedIn messages, influencer outreach, and thermal paste/TIM/PTM/PCM/phase-change sales copy for Maxtor, CTG, MTP, AP, XTP, OEM, ODM, distributor, data center, PC DIY, AI server, 5G, EV, industrial, and consumer electronics prospects.
 ---
 
 # Maxtor Cold Email Copywriter
@@ -52,7 +52,8 @@ Do not read credential notes or unrelated environment files unless the user expl
    - MTP-8301C as the main new energy, SiC, BMS, and charging pile thermal paste
    - CTG1/3/6/9 for tiered catalog coverage only when specifically relevant
    - AP-306 for thermal putty and uneven gap-filling needs
-   - AP-12/AP-14/XTP-001 for pads or phase-change material contexts
+   - AP-12/AP-14 for thermal pad contexts
+   - XTP-001 for PTM / phase-change material contexts, especially when AI server customers mention PTM or phase-change interface materials
 5. Draft with a small, concrete first step:
    - for first-touch emails, offer a catalog, product brochure, or datasheet first,
    - do not open by asking whether to send the email to the recipient or transfer it to engineering/procurement,
@@ -77,6 +78,7 @@ Do not read credential notes or unrelated environment files unless the user expl
 - Use metric notation consistently: `W/m.K` or `W/m·K`; keep one style inside a single email.
 - Never claim "best", "world-leading", "guaranteed lower temperature", or certified performance unless the user provides evidence.
 - Do not imply Maxtor supplies liquid metal or graphene solutions for AI GPU die cooling. For server messaging, focus on regular server CPU maintenance, data center operations, non-die components, or high-performance paste contexts.
+- When AI server customers mention PTM / phase-change interface materials, include Maxtor's phase-change material angle and XTP-001 where relevant, while avoiding unsupported claims about replacing liquid metal, graphene, or exact GPU die materials.
 - Avoid spammy openings such as "Hope you are doing great" when a specific buyer pain point can be used instead.
 - For professional thermal-material prospects, do not lead with samples in the first email. First send catalog/product information; move to samples after reply or confirmed test interest.
 - Do not make first-touch outreach feel cheap by offering samples too early. Qualified buyers usually request samples when they understand the product fit.
