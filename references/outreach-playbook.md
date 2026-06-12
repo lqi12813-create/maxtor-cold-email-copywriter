@@ -215,6 +215,8 @@ For actual sending workflows:
 - Show recipient list and matched template before sending.
 - For `zsmaxtor@126.com` SMTP sending, use `scripts/send_maxtor_email.py`; keep the 126 authorization code only in local `.env`, never in the repository or customer-facing content.
 - Run a dry-run or save an `.eml` preview before actual sending. Use `--save-draft` for 126 Drafts via IMAP when the user wants a webmail draft. Use `--send` only after the user approves the exact recipient, subject, body, and attachments.
+- HTML drafts should look like normal text emails: use inline styles, prefer `Microsoft YaHei` for Chinese with `Microsoft JhengHei`, Arial, and sans-serif fallbacks, keep 14-15px font size and 1.5-1.65 line height, and avoid heavy templates, images, tracking pixels, hidden text, or large colored blocks.
+- Always include a plain-text alternative with HTML drafts. Simple text-like HTML is less risky than image-heavy marketing layouts, but inbox placement still depends on sender reputation, recipient engagement, authentication, and wording.
 - Batch limit: up to 10 emails per batch.
 - Leave at least 30 minutes between batches.
 - Default sending window: 09:00-21:00 Beijing time.

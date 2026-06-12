@@ -87,6 +87,7 @@ Do not read credential notes or unrelated environment files unless the user expl
 - Before writing, match market and customer fit: Taiwan AI/server manufacturing, US repair services, and Southeast Asia brand/distribution are different starting hypotheses, but customer evidence overrides regional default.
 - Prefer "thermal interface material", "thermal paste", "thermal grease", "thermal pad", "thermal putty", "OEM/ODM", "product brochure", "datasheet", and exact W/m.K claims from the reference.
 - Use metric notation consistently: `W/m.K` or `W/m·K`; keep one style inside a single email. For Chinese technical outreach, prefer `W/m·K`, e.g. `14.5 W/m·K`.
+- For HTML drafts, keep the format text-like: Microsoft YaHei first for Chinese (`Microsoft YaHei`, `Microsoft JhengHei`, Arial, sans-serif), 14-15px font size, 1.5-1.65 line height, simple paragraphs, no images, no tracking pixels, and always include a plain-text alternative.
 - Never claim "best", "world-leading", "guaranteed lower temperature", or certified performance unless the user provides evidence.
 - Do not imply Maxtor supplies liquid metal or graphene solutions for AI GPU die cooling. For server messaging, focus on regular server CPU maintenance, data center operations, non-die components, or high-performance paste contexts.
 - When AI server customers mention PTM / phase-change interface materials, include Maxtor's phase-change material angle and XTP-001 where relevant, while avoiding unsupported claims about replacing liquid metal, graphene, or exact GPU die materials.
