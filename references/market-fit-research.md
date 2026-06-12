@@ -41,6 +41,8 @@ Writing angle:
 - Mention COMPUTEX / meeting context if relevant.
 - Emphasize 15 years of TIM R&D and manufacturing experience.
 - Avoid emphasizing geographic origin.
+- For first-touch COMPUTEX subject lines, use customer-known categories such as `Maxtor Thermal Paste / PTM` rather than Maxtor model codes like `CTG`.
+- User-provided market insight: many Taiwan server customers may use or know DowSil TC-5888 and Shin-Etsu 7950 / 7958; use this as current-material context when relevant, not as an unsupported replacement claim.
 - For AI server manufacturing, do not claim Maxtor replaces liquid metal or graphene GPU-die solutions. Position product information for CPU-to-heatsink, non-die components, production validation, maintenance, comparable thermal paste applications, or PTM / phase-change material discussion when the customer raises that topic.
 
 ### United States

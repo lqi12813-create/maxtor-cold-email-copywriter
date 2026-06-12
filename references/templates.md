@@ -75,9 +75,9 @@ I am reaching out because server CPU maintenance often needs a stable thermal pa
 
 Maxtor has 15 years of thermal interface material R&D and manufacturing experience. Our main CTG thermal paste options are CTG8, CTG10, and CTG12, with syringe and bottle packaging options for engineering review and maintenance use.
 
-If you currently use DowSil, Shin-Etsu, Henkel, or similar thermal grease for CPU-to-heatsink maintenance, our CTG8/CTG10/CTG12 range may be worth reviewing first.
+If you currently use DowSil TC-5888, Shin-Etsu 7950 / 7958, or similar server thermal grease, our CTG8/CTG10/CTG12 range may be worth reviewing first.
 
-Would you like me to send the CTG8/CTG10/CTG12 brochure and datasheets for your team to review?
+Would it be useful if I send the Maxtor thermal paste brochure first, then follow with the relevant CTG datasheets if the direction fits?
 
 Best regards,
 [Your Name]
@@ -91,7 +91,7 @@ www.maxtor-si.com
 
 Subject options:
 
-- `COMPUTEX 後續：Maxtor Thermal Solutions CTG / PTM 資料`
+- `COMPUTEX 後續：Maxtor Thermal Paste / PTM 資料`
 - `台北電腦展後續：Maxtor Thermal Solutions 導熱材料圖冊`
 - `COMPUTEX 後續：Maxtor Thermal Solutions AI 伺服器導熱材料`
 

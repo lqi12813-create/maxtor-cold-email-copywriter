@@ -45,6 +45,8 @@ www.maxtor-si.com
 - Do not emphasize "China" or geographic origin in the opening. Prefer "Maxtor Thermal Solutions", "Maxtor 研發與製造團隊", or "我們團隊".
 - Emphasize 15 years of thermal interface material R&D and manufacturing experience when trust-building is needed.
 - If AI server leads mention PTM / 相變介面材料, include XTP-001 or Maxtor phase-change material as a relevant catalog point alongside CTG8/CTG10/CTG12.
+- For first-touch subject lines, use customer-known material categories such as `Maxtor Thermal Paste / PTM` instead of Maxtor model codes such as `CTG`; introduce CTG8/CTG10/CTG12 inside the body after the customer understands the category.
+- User-provided Taiwan server-market insight: many local server customers may be familiar with DowSil TC-5888 and Shin-Etsu 7950 / 7958. Use these only as gentle context for comparable review or current-material discussion, not as superiority claims.
 - Keep tone professional, warm, and practical. Taiwanese B2B follow-up should feel like a continuation of a conversation, not a cold pitch.
 - If the lead is a server maintenance, data center, industrial PC, or terminal industrial application customer, do not lead with OEM/ODM. Lead with application fit, stability, product information, packaging for maintenance, and supply continuity.
 - Use OEM/ODM mainly for computer brands, product brands, agents, distributors, and private-label or resale customers.
@@ -116,6 +118,7 @@ Angle:
 
 - Regular server CPU maintenance uses thermal paste as recurring consumable.
 - AI server customers may also discuss PTM / phase-change interface materials; mention Maxtor phase-change material only if relevant to the conversation or customer's application.
+- Taiwan server customers may already use or know DowSil TC-5888 and Shin-Etsu 7950 / 7958; when useful, reference these as a current-material context and invite a later side-by-side review after the customer replies.
 - Bottle/bulk packaging supports maintenance teams.
 - 15 years of TIM R&D and manufacturing experience supports trust-building.
 - Discuss target thermal conductivity, viscosity, pump-out resistance, shelf life, and test method.
@@ -165,7 +168,7 @@ For actual sending workflows:
 
 ## Subject Line Rules
 
-Every subject line should include either `Maxtor Thermal Solutions` for brand/company framing or `Maxtor thermal paste` for product framing. Avoid bare `Maxtor` alone in subject lines unless space is very tight.
+Every subject line should include either `Maxtor Thermal Solutions` for brand/company framing or `Maxtor thermal paste` / `Maxtor Thermal Paste` for product framing. Avoid bare `Maxtor` alone in subject lines unless space is very tight. For first-touch or trade-show prospects, prefer customer-known categories such as thermal paste, TIM, PTM, or phase-change material before Maxtor internal model codes.
 
 Good subject lines:
 
@@ -174,7 +177,7 @@ Good subject lines:
 - `Maxtor Thermal Solutions TIM for CPU/GPU cooling`
 - `Maxtor thermal paste packaging options: syringe, bottle, blister`
 - `Maxtor Thermal Solutions datasheets for server CPU maintenance`
-- `COMPUTEX 後續：Maxtor Thermal Solutions CTG / PTM 資料`
+- `COMPUTEX 後續：Maxtor Thermal Paste / PTM 資料`
 - `COMPUTEX 後續：Maxtor Thermal Solutions 伺服器導熱材料`
 - `台北電腦展後續：Maxtor thermal paste / PTM 資料`
 
@@ -191,7 +194,7 @@ Before final output:
 - Is there one clear buyer type?
 - Is the target-market hypothesis matched to actual customer evidence?
 - Is the product fit region-aware but not region-only?
-- Do all subject lines include `Maxtor Thermal Solutions` or `Maxtor thermal paste`?
+- Do all subject lines include `Maxtor Thermal Solutions`, `Maxtor thermal paste`, or title-case `Maxtor Thermal Paste`?
 - Is this a first-touch email? If yes, use catalog/datasheet CTA instead of sample CTA.
 - Is there one main Maxtor product angle?
 - Are all numbers supported by `maxtor-brand-products.md` or user data?

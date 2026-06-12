@@ -70,7 +70,8 @@ Do not read credential notes or unrelated environment files unless the user expl
 
 - Default email language is English unless the recipient is clearly Chinese-speaking or the user asks otherwise.
 - Keep first-touch emails short: normally 90-150 English words.
-- Every subject line should include either `Maxtor Thermal Solutions` for brand/company framing or `Maxtor thermal paste` for product framing. Avoid bare `Maxtor` alone in subject lines unless space is very tight.
+- Every subject line should include either `Maxtor Thermal Solutions` for brand/company framing or `Maxtor thermal paste` / `Maxtor Thermal Paste` for product framing. Avoid bare `Maxtor` alone in subject lines unless space is very tight.
+- For first-touch and trade-show leads who do not yet know Maxtor model codes, keep subject lines category-level, e.g. `COMPUTEX 後續：Maxtor Thermal Paste / PTM 資料`; mention CTG8/CTG10/CTG12 inside the email body instead of leading with `CTG` in the subject.
 - Use one main selling angle per email. Avoid product dumps.
 - Personalize the first line when a recipient name, website, product category, or pain point is available.
 - If the recipient has an English name, greet with `Hi [English first name],` rather than the full name, e.g. `Hi David,` not `Hi David Chen,`.
@@ -83,9 +84,9 @@ Do not read credential notes or unrelated environment files unless the user expl
 - Avoid spammy openings such as "Hope you are doing great" when a specific buyer pain point can be used instead.
 - For professional thermal-material prospects, do not lead with samples in the first email. First send catalog/product information; move to samples after reply or confirmed test interest.
 - Do not make first-touch outreach feel cheap by offering samples too early. Qualified buyers usually request samples when they understand the product fit.
-- For Taiwan/server/trade-show first touches, avoid route-jumping CTAs such as "should I send this to you or engineering/procurement?" Start with: "May I send the CTG8/CTG10/CTG12 product brochure and datasheets to this email?"
+- For Taiwan/server/trade-show first touches, avoid route-jumping CTAs such as "should I send this to you or engineering/procurement?" Start with a catalog/product-information step, e.g. "I attached the Maxtor thermal paste / PTM brochure for your reference; if the direction fits, I can send the CTG/PTM TDS next."
 - Use "sample kit" only for sample follow-ups, reviewer/media campaigns, or customers who have already shown testing interest.
-- Make the first-touch reply action frictionless: "Would it be useful if I send the CTG8/CTG10/CTG12 product brochure and datasheets?"
+- Make the first-touch reply action frictionless: "I attached the Maxtor thermal paste / PTM brochure first; if the direction fits, I can send the relevant CTG/PTM TDS next."
 
 ## Signature
 
@@ -107,7 +108,7 @@ Use the Chinese legal company name in email signatures unless the user asks for 
 
 - Treat the local Obsidian Maxtor knowledge base as internal working reference.
 - Treat official website facts as public-facing facts when verified.
-- If comparing against DowSil TC-5888, use cautious wording: "positioned against", "can be discussed as an alternative", or "worth testing against your current paste." Do not claim superiority unless test data is provided for the exact Maxtor product and test condition.
+- If comparing against DowSil TC-5888 or Shin-Etsu 7950 / 7958, use cautious wording: "positioned against", "can be discussed as an alternative", or "worth testing against your current paste." Do not claim superiority unless test data is provided for the exact Maxtor product and test condition.
 - If a claim is only from OCR catalog notes, do not overstate it as independently verified.
 
 ## Common Shortcuts
