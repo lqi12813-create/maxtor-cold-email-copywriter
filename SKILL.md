@@ -75,6 +75,7 @@ Do not read credential notes or unrelated environment files unless the user expl
 - Use one main selling angle per email. Avoid product dumps.
 - Personalize the first line when a recipient name, website, product category, or pain point is available.
 - If the recipient has an English name, greet with `Hi [English first name],` rather than the full name, e.g. `Hi David,` not `Hi David Chen,`.
+- For Chinese greetings with a name or title, put one half-width space between the name/title and `您好`, e.g. `黃經理 您好，`, `王先生 您好，`, or `李小姐 您好，`. If no name/title is available, use `您好，`.
 - Do not double-greet. If the email opens with `Hi Kevin,` or `Hi [First name],`, the next sentence should start directly with the context, e.g. `上週在 COMPUTEX...`, not `您好，上週...`.
 - When the user asks to match Fred's previous outreach style, preserve the useful traits: respectful but not submissive, manufacturer/R&D credibility, clear application fit, attachment-first information flow, and practical evidence such as experience, certifications, or known comparable materials. Compress long feature lists into short paragraphs and remove stiff courtesy phrases.
 - Before writing, match market and customer fit: Taiwan AI/server manufacturing, US repair services, and Southeast Asia brand/distribution are different starting hypotheses, but customer evidence overrides regional default.

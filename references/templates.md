@@ -244,7 +244,7 @@ Hi [First name], Maxtor manufactures thermal paste and TIM products in Zhongshan
 ## Chinese First Touch
 
 ```text
-您好 [姓名/团队]，
+[姓名/团队] 您好，
 
 看到贵司有 [电脑配件 / 电子元件 / 散热材料 / 工业设备] 相关业务，想简单介绍一下 Maxtor。
 

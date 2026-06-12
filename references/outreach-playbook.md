@@ -23,6 +23,7 @@ www.maxtor-si.com
 - If CRM lead name is a person: use first word, e.g. `Hi Linus,`.
 - If the person has an English name, use only the English given name / first name, not the full name, e.g. `Hi David,` not `Hi David Chen,`.
 - If both Chinese and English names are available, prefer the English first name for English-style greetings unless the email is fully Chinese/Traditional Chinese and the local name feels more natural.
+- For Chinese greetings with a name, surname, or title, put one half-width space before `您好`, e.g. `黃經理 您好，`, `王先生 您好，`, `李小姐 您好，`. If no name/title is available, use `您好，`.
 - If CRM lead name is a brand/channel/company: use team form, e.g. `Hi Gamers Nexus team,`.
 - If no name is available: `Hi there,`.
 - Avoid double greetings. After `Hi Kevin,` / `Hi [First name],`, start the next line with the actual context, e.g. `上週在 COMPUTEX...`; do not write `您好，上週...`.
@@ -223,6 +224,7 @@ Before final output:
 - Is the product fit region-aware but not region-only?
 - If Fred's style is requested, does the draft keep the credible manufacturer/documentation feel while removing stiff courtesy and long feature lists?
 - If the draft starts with `Hi [Name],`, does the next sentence avoid another greeting such as `您好`?
+- For Chinese name/title greetings, is there one half-width space before `您好`, e.g. `黃經理 您好，`?
 - Are thermal paste stability claims written as pump-out resistance / 抗泵出 instead of displacement wording?
 - Do all subject lines include `Maxtor Thermal Solutions`, `Maxtor thermal paste`, or title-case `Maxtor Thermal Paste`?
 - Is this a first-touch email? If yes, use catalog/datasheet CTA instead of sample CTA.
