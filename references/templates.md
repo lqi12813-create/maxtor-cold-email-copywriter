@@ -111,7 +111,7 @@ COMPUTEX 後續補一份 Maxtor 的導熱材料圖冊給您參考。
 Best regards,
 Fred
 Maxtor Thermal Solutions
-中山市迈拓新材料有限公司
+中山市邁拓新材料有限公司
 zsmaxtor@126.com
 www.maxtor-si.com
 ```

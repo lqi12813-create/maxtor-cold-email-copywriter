@@ -4,7 +4,7 @@
 
 - Maxtor development emails use `zsmaxtor@126.com`.
 - Display name: Maxtor Thermal Solutions.
-- Chinese legal company name for signatures: `中山市迈拓新材料有限公司`.
+- Chinese legal company name for signatures: use `中山市迈拓新材料有限公司` for Simplified Chinese and `中山市邁拓新材料有限公司` for Traditional Chinese / Taiwan.
 - Public website email: `info@maxtor-si.com`.
 - Keep Maxtor and Coxbyte identities separate. Do not send Maxtor outreach with `fred@coxbyte.com`.
 - Default signature:
@@ -41,6 +41,7 @@ www.maxtor-si.com
 
 - For COMPUTEX Taipei / 台北 COMPUTEX leads, write as a post-show follow-up: mention meeting or seeing them at the show before introducing products.
 - Use Traditional Chinese by default for Taiwan customers.
+- Use the Traditional company-name signature for Taiwan emails: `中山市邁拓新材料有限公司`.
 - Do not emphasize "China" or geographic origin in the opening. Prefer "Maxtor Thermal Solutions", "Maxtor 研發與製造團隊", or "我們團隊".
 - Emphasize 15 years of thermal interface material R&D and manufacturing experience when trust-building is needed.
 - If AI server leads mention PTM / 相變介面材料, include XTP-001 or Maxtor phase-change material as a relevant catalog point alongside CTG8/CTG10/CTG12.
